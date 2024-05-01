@@ -5,9 +5,26 @@ website:
   title: "NB"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - sidebar:main-sections
       - about.qmd
+      - index.qmd
+
+    
+  sidebar:
+    - id: main-sections
+      title: "Main Sections"
+      contents: 
+        - section: "Sections"
+          contents:
+            - math/index.qmd
+            - cse/index.qmd
+            - nat-sci/index.qmd
+            - life-sci/index.qmd
+            - finance-econ/index.qmd
+            - humanities/index.qmd
+            - life/index.qmd
+        
+
 
 format:
   html:
