@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "cse/index.html",
+    "href": "cse/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "this is a file"
+  },
+  {
+    "objectID": "finance-econ/index.html",
+    "href": "finance-econ/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "hey"
+  },
+  {
+    "objectID": "finance-econ/microecon/index.html",
+    "href": "finance-econ/microecon/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "hey"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "NB",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "math\ncs\nnatural sciences\nlife sciences\nfinance and economics\nhumanities\nlife"
   },
   {
     "objectID": "about.html",
@@ -12,5 +33,33 @@
     "title": "About",
     "section": "",
     "text": "NB - My Own KNowledge Base"
+  },
+  {
+    "objectID": "math/index.html",
+    "href": "math/index.html",
+    "title": "Math",
+    "section": "",
+    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic"
+  },
+  {
+    "objectID": "math/index.html#foundations",
+    "href": "math/index.html#foundations",
+    "title": "Math",
+    "section": "",
+    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic"
+  },
+  {
+    "objectID": "math/index.html#applied-mathematics",
+    "href": "math/index.html#applied-mathematics",
+    "title": "Math",
+    "section": "Applied Mathematics",
+    "text": "Applied Mathematics\n\nprobability & statistics\nnumerical mathematics\ndynamical systems\nfractals\ngeneral applied mathematics"
+  },
+  {
+    "objectID": "math/index.html#higher-mathematics",
+    "href": "math/index.html#higher-mathematics",
+    "title": "Math",
+    "section": "Higher Mathematics",
+    "text": "Higher Mathematics\n\nfunctional analysis\nmeasure theory\ntopology\nmetric spaces\ndifferential geometry"
   }
 ]
