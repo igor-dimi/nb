@@ -1,5 +1,5 @@
 ---
-title: "nb"
+title: "NB"
 ---
 
 This is a Quarto website.

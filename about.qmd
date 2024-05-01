@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+NB - My Own K**N**owledge **B**ase

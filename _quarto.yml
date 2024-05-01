@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "nb"
+  title: "NB"
   navbar:
     left:
       - href: index.qmd
