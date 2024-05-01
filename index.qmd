@@ -2,6 +2,11 @@
 title: "NB"
 ---
 
-This is a Quarto website.
+* [math](./math/)
+* [cs](./cse/)
+* [natural sciences](./nat-sci/)
+* [life sciences](./life-sci)
+* [finance and economics](./finance-econ/)
+* [humanities](./humanities/)
+* [life](./life/)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
