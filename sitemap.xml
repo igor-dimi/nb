@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://igor-dimi.github.io/nb/cse/index.html</loc>
-    <lastmod>2024-05-01T22:13:57.477Z</lastmod>
-  </url>
-  <url>
-    <loc>https://igor-dimi.github.io/nb/finance-econ/index.html</loc>
-    <lastmod>2024-05-01T22:07:45.797Z</lastmod>
-  </url>
-  <url>
-    <loc>https://igor-dimi.github.io/nb/finance-econ/microecon/index.html</loc>
-    <lastmod>2024-05-01T22:10:21.107Z</lastmod>
-  </url>
-  <url>
     <loc>https://igor-dimi.github.io/nb/index.html</loc>
-    <lastmod>2024-05-01T21:30:04.654Z</lastmod>
+    <lastmod>2024-05-01T23:31:08.668Z</lastmod>
   </url>
   <url>
     <loc>https://igor-dimi.github.io/nb/about.html</loc>
-    <lastmod>2024-05-01T13:52:52.120Z</lastmod>
+    <lastmod>2024-05-01T22:22:33.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://igor-dimi.github.io/nb/finance-econ/microecon/index.html</loc>
+    <lastmod>2024-05-01T22:22:33.227Z</lastmod>
+  </url>
+  <url>
+    <loc>https://igor-dimi.github.io/nb/math/index.html</loc>
+    <lastmod>2024-05-01T22:22:33.237Z</lastmod>
   </url>
 </urlset>

@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "cse/index.html",
-    "href": "cse/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "this is a file"
-  },
-  {
-    "objectID": "finance-econ/index.html",
-    "href": "finance-econ/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "hey"
-  },
-  {
-    "objectID": "finance-econ/microecon/index.html",
-    "href": "finance-econ/microecon/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "hey"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "NB",
@@ -35,31 +14,54 @@
     "text": "NB - My Own KNowledge Base"
   },
   {
+    "objectID": "finance-econ/microecon/index.html",
+    "href": "finance-econ/microecon/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "hey"
+  },
+  {
     "objectID": "math/index.html",
     "href": "math/index.html",
     "title": "Math",
     "section": "",
-    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic"
+    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic",
+    "crumbs": [
+      "Sections",
+      "Math"
+    ]
   },
   {
     "objectID": "math/index.html#foundations",
     "href": "math/index.html#foundations",
     "title": "Math",
     "section": "",
-    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic"
+    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic",
+    "crumbs": [
+      "Sections",
+      "Math"
+    ]
   },
   {
     "objectID": "math/index.html#applied-mathematics",
     "href": "math/index.html#applied-mathematics",
     "title": "Math",
     "section": "Applied Mathematics",
-    "text": "Applied Mathematics\n\nprobability & statistics\nnumerical mathematics\ndynamical systems\nfractals\ngeneral applied mathematics"
+    "text": "Applied Mathematics\n\nprobability & statistics\nnumerical mathematics\ndynamical systems\nfractals\ngeneral applied mathematics",
+    "crumbs": [
+      "Sections",
+      "Math"
+    ]
   },
   {
     "objectID": "math/index.html#higher-mathematics",
     "href": "math/index.html#higher-mathematics",
     "title": "Math",
     "section": "Higher Mathematics",
-    "text": "Higher Mathematics\n\nfunctional analysis\nmeasure theory\ntopology\nmetric spaces\ndifferential geometry"
+    "text": "Higher Mathematics\n\nfunctional analysis\nmeasure theory\ntopology\nmetric spaces\ndifferential geometry",
+    "crumbs": [
+      "Sections",
+      "Math"
+    ]
   }
 ]
