@@ -1,3 +1,5 @@
 ---
 title: Humanities
 ---
+
+* [trivium](trivium/index.qmd)
