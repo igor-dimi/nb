@@ -1,5 +1,44 @@
 [
   {
+    "objectID": "humanities/trivium/index.html",
+    "href": "humanities/trivium/index.html",
+    "title": "Trivium",
+    "section": "",
+    "text": "Trivium: Logic, grammar, rhetoric."
+  },
+  {
+    "objectID": "humanities/trivium/index.html#general-trivium-education",
+    "href": "humanities/trivium/index.html#general-trivium-education",
+    "title": "Trivium",
+    "section": "General Trivium Education",
+    "text": "General Trivium Education\n\nnotes"
+  },
+  {
+    "objectID": "humanities/trivium/index.html#logic-critical-thinking-argumentation-argumentative-rhetoric",
+    "href": "humanities/trivium/index.html#logic-critical-thinking-argumentation-argumentative-rhetoric",
+    "title": "Trivium",
+    "section": "Logic, Critical Thinking, Argumentation, Argumentative Rhetoric",
+    "text": "Logic, Critical Thinking, Argumentation, Argumentative Rhetoric"
+  },
+  {
+    "objectID": "humanities/trivium/index.html#creative-academic-writing-creating-academic-reading-creative-rhetoric",
+    "href": "humanities/trivium/index.html#creative-academic-writing-creating-academic-reading-creative-rhetoric",
+    "title": "Trivium",
+    "section": "Creative & Academic Writing, Creating & Academic Reading, Creative Rhetoric",
+    "text": "Creative & Academic Writing, Creating & Academic Reading, Creative Rhetoric"
+  },
+  {
+    "objectID": "humanities/index.html",
+    "href": "humanities/index.html",
+    "title": "Humanities",
+    "section": "",
+    "text": "trivium",
+    "crumbs": [
+      "Sections",
+      "Humanities"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "NB",
