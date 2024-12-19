@@ -104,5 +104,6 @@
 
 1. Art and Science of Smalltalk - Simon Lewis
 2. Smalltalk and Object Orientation - An Introduction. John Hunt
-3. Programming Smalltalk - Object Oriantation from the Beginning, An Introduction to the principles of Programming. Johannes Brauer.
+3. Objektorientiert Softwareentwicklung mit Smalltalk. Guenther Vinek. 
 4. SmallTalk, Objects and Design. Chamond Liu
+3. Programming Smalltalk - Object Oriantation from the Beginning, An Introduction to the principles of Programming. Johannes Brauer.
