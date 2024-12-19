@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://igor-dimi.github.io/nb/humanities/trivium/index.html</loc>
-    <lastmod>2024-08-12T23:03:26.064Z</lastmod>
+    <loc>https://igor-dimi.github.io/nb/math/index.html</loc>
+    <lastmod>2024-12-19T16:37:51.504Z</lastmod>
   </url>
   <url>
     <loc>https://igor-dimi.github.io/nb/humanities/index.html</loc>
-    <lastmod>2024-08-12T23:05:05.184Z</lastmod>
-  </url>
-  <url>
-    <loc>https://igor-dimi.github.io/nb/index.html</loc>
-    <lastmod>2024-05-01T23:31:08.668Z</lastmod>
+    <lastmod>2024-12-19T16:37:32.820Z</lastmod>
   </url>
   <url>
     <loc>https://igor-dimi.github.io/nb/about.html</loc>
-    <lastmod>2024-05-01T22:22:33.150Z</lastmod>
+    <lastmod>2024-12-19T16:37:02.205Z</lastmod>
+  </url>
+  <url>
+    <loc>https://igor-dimi.github.io/nb/cse/index.html</loc>
+    <lastmod>2024-12-19T16:37:09.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://igor-dimi.github.io/nb/cse/oop-soft-eng-arc/index.html</loc>
+    <lastmod>2024-12-19T16:37:11.357Z</lastmod>
   </url>
   <url>
     <loc>https://igor-dimi.github.io/nb/finance-econ/microecon/index.html</loc>
-    <lastmod>2024-05-01T22:22:33.227Z</lastmod>
+    <lastmod>2024-12-19T16:37:28.283Z</lastmod>
   </url>
   <url>
-    <loc>https://igor-dimi.github.io/nb/math/index.html</loc>
-    <lastmod>2024-05-01T22:22:33.237Z</lastmod>
+    <loc>https://igor-dimi.github.io/nb/humanities/trivium/index.html</loc>
+    <lastmod>2024-12-19T16:37:37.105Z</lastmod>
+  </url>
+  <url>
+    <loc>https://igor-dimi.github.io/nb/index.html</loc>
+    <lastmod>2024-12-19T16:37:37.850Z</lastmod>
   </url>
 </urlset>
