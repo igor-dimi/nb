@@ -81,6 +81,7 @@
 17. Guide to J2EE - Enterprise Java. John Hunt
 5. Modern Java in Action - Lambda, Streams, Functional and Reactive Programming. Roul-Grabriel Urma
 6. Introduction to Software Design with Java. Martin P. Robillard.
+6. Software Design. Eric Braude
 7. Software Development Case Studies in Java
 
 #### Bluej
@@ -98,7 +99,7 @@
 
 #### Concurrent Java
 
-21. Start Concurrent - A Gentle Introduction to Concurrent Programming. Barry Wittman. 
+1. Start Concurrent - A Gentle Introduction to Concurrent Programming. Barry Wittman. 
 
 ### Smalltalk
 
