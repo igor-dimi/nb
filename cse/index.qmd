@@ -2,3 +2,4 @@
 title: Computer Science & Engineering
 ---
 
+  * software engineering, oop, design patterns, uml [link](./oop-soft-eng-arc)

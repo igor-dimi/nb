@@ -1,0 +1,108 @@
+# Software Engineering, OOP, UML & Design Patterns 
+
+## Reading List 
+
+### OOP Analysis & Design with UML
+
+1.  Object-Oriented Analysis & Design - Understanding System Development with UML 2.0.
+  Mike O'Docherty
+1. Object-Oriented Design with UML and Java. K. Barclay, J. Savage. 
+1. UML for Java Programmers. Robert Cecil Martin. (a: 4.5)
+1. How to Design Classes - Data Structure and Organization. Matthias Felleisen, et. al. 
+1. Designing Object-Oriented Software. Rebecca Wirfs-Brock 
+1. Object-Oriented Analysis. Peter Coad, Edward Yourdon. 
+1. Object-Oriented Design. Peter Coad
+1. Object-Oriented Programming. Peter Coad, Edward Yourdon.
+1. Software Design Using Java 2. Kevin Lano
+1. Advanced Systems Design with Java, Uml and MDA. Kevin Lano
+2. Agile Mode-Based Development Using UML-RSDS. Kevin Lano
+3. Introduction to Software Design with Java, 2nd ed. Martin P. Robillard
+4. Applying UML and Patterns - an Introduction to Object-Oriented Analysis and Design
+5. Java the UML way - integrating object-oriented design and programming. Else Lervik
+6. Using UML - Software Engineering with Objects and Components. Stevens Perdita 
+7. Guide to the unified process featuring UML, Java, and design patterns. John Hunt
+8. Guide to J2EE - Enterprise Java. John Hunt
+9. Fundamentals of Object-Oriented Design in UML. Page-Jones Meilir.
+
+### General OOP, Program and Systems Design
+
+1. The Practical Guide to Structured Systems Design - Page-Jones Meilir.
+2. The Essence of Program Design - Douglas Bell
+3. Object-Oriented Software Construction. Bertrand Meyer
+4. An Introduction to Object-Oriented Programming. Timothy A. Budd
+5. How to Write Good Programms - Stevens Perdita. 
+
+### Design Patterns 
+
+1. Design Patterns in Java. Steven John Metsker.
+2. Design Patterns Explaiend - a new Perspective on Object-Oriented Design. Alan-Trott Shalloway. 
+3. Object-Oriented Design and Paatterns - Cay S. Horstmann. 
+4. Dive Into Design Patterns - Alexander Shvets
+
+### Formal Software Development
+
+1. Specification and Transformation of Programs - A Formal Approach to Softare Development. Helmut A. Partsch. (1990)
+1. Formal Software Development - From VDM to Java. Quentin Charatan, Aaron Kans. 
+1. Formal Object-Oriented Development. Kevin Lano
+2. Software Abstractions. Logic, Language, and Analysis. Daniel Jackson
+2. Formal Specification and Design. L. M. G. Feijs. 
+2. The B-Language Method. Kevin Lano
+3. Modellbildung in der Informatik - Manfred Broy.
+4. Mathematical Approaches to Software Quality. Gerard O'Regan
+5. Validated Designs for Object-Oriented Systems - John Fitzgerald
+6. Modelling Systems - Practical Tools and Techniques in Software Development. John Fitzgerald. 
+7. Systematic Softare Development Using VDM. Cliff Jones 
+9. Proof in VDM - Case Studies. Cliff Jones.
+10. Using Z. Jim Woodcock. 
+11. Formal Specification and Documentation Using Z - A Case Study Approach. Jonathan Bowen
+12. Model-Based Software Testing and Analysis with C#. Jonathan Jacky
+13. An Introduction to Discrete Mathematics and Formal System Specification. D. Ince.
+13. The Way of Z - Practical Programming with Formal Methods. Jonathan Jacky.
+14. Java Software Development with Event-B. Nestor Catano Collazos
+
+### Java 
+
+#### General CS
+
+1. Great Ideas in Computer Science with Java. Alan W. Biermann
+9. Classic Computer Science Problems in Java. David Kopec
+
+#### General, OOP and Software Development Java 
+
+1. Big Java. Cay S. Horstmann. 
+15. Java the UML way - Integrating Object-oriented Design and Programming. Else Lervik
+20. Just Java 2. Peter van der Linden.
+11. An Introduction to Object-Oriented Programming with Java. C. Thomas Wu
+10. Building Java Programs - A Back to Basics Approach. Stuart Reges 
+18. Introduction to Programming Using Java. David J. Eck. 
+19. Fundamentals of OOP and Data Structures in Java. Richard Wiener
+1. Learning Java with Games. Chong-wei Xu.
+16. Java and Object Orientation - An Introductin. John Hunt
+17. Guide to J2EE - Enterprise Java. John Hunt
+5. Modern Java in Action - Lambda, Streams, Functional and Reactive Programming. Roul-Grabriel Urma
+6. Introduction to Software Design with Java. Martin P. Robillard.
+7. Software Development Case Studies in Java
+
+#### Bluej
+
+1. Learn Object-Oriented Thinking & Programming. Rudolf Pecinovsky
+8. Objects First with Java - A Practical Introduction Usding Bluej. David Barnes
+
+#### Algorithms & Data Structures with Java
+
+1. Java Software Structures - Designing and Using Data Structures. Lewis-Joseph Chase
+1. Data Structures and Abstractions with Java. Frank M. Carrano, Walter Savitch.
+1. Data Structures in an Object-Oriented domain. Jean-Paul Tremblay.
+1. Java Collections - an Introduction to Abstract Data Types, Data Structures and Algorithms. David A. Watt.
+1. Think Data Structures. Allan B. Downey
+
+#### Concurrent Java
+
+21. Start Concurrent - A Gentle Introduction to Concurrent Programming. Barry Wittman. 
+
+### Smalltalk
+
+1. Art and Science of Smalltalk - Simon Lewis
+2. Smalltalk and Object Orientation - An Introduction. John Hunt
+3. Programming Smalltalk - Object Oriantation from the Beginning, An Introduction to the principles of Programming. Johannes Brauer.
+4. SmallTalk, Objects and Design. Chamond Liu
