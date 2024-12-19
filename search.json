@@ -1,73 +1,28 @@
 [
   {
-    "objectID": "math/index.html",
-    "href": "math/index.html",
-    "title": "Math",
-    "section": "",
-    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic"
-  },
-  {
-    "objectID": "math/index.html#foundations",
-    "href": "math/index.html#foundations",
-    "title": "Math",
-    "section": "",
-    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic"
-  },
-  {
-    "objectID": "math/index.html#applied-mathematics",
-    "href": "math/index.html#applied-mathematics",
-    "title": "Math",
-    "section": "Applied Mathematics",
-    "text": "Applied Mathematics\n\nprobability & statistics\nnumerical mathematics\ndynamical systems\nfractals\ngeneral applied mathematics"
-  },
-  {
-    "objectID": "math/index.html#higher-mathematics",
-    "href": "math/index.html#higher-mathematics",
-    "title": "Math",
-    "section": "Higher Mathematics",
-    "text": "Higher Mathematics\n\nfunctional analysis\nmeasure theory\ntopology\nmetric spaces\ndifferential geometry"
-  },
-  {
-    "objectID": "humanities/index.html",
-    "href": "humanities/index.html",
-    "title": "Humanities",
-    "section": "",
-    "text": "trivium"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "NB - My Own KNowledge Base"
-  },
-  {
-    "objectID": "cse/index.html",
-    "href": "cse/index.html",
-    "title": "Computer Science & Engineering",
-    "section": "",
-    "text": "software engineering, oop, design patterns, uml link"
-  },
-  {
     "objectID": "cse/oop-soft-eng-arc/index.html",
     "href": "cse/oop-soft-eng-arc/index.html",
     "title": "Software Engineering, OOP, UML & Design Patterns",
     "section": "",
-    "text": "Object-Oriented Analysis & Design - Understanding System Development with UML 2.0. Mike O’Docherty\nObject-Oriented Design with UML and Java. K. Barclay, J. Savage.\nUML for Java Programmers. Robert Cecil Martin. (a: 4.5)\nHow to Design Classes - Data Structure and Organization. Matthias Felleisen, et. al. \nDesigning Object-Oriented Software. Rebecca Wirfs-Brock\nObject-Oriented Analysis. Peter Coad, Edward Yourdon.\nObject-Oriented Design. Peter Coad\nObject-Oriented Programming. Peter Coad, Edward Yourdon.\nSoftware Design Using Java 2. Kevin Lano\nAdvanced Systems Design with Java, Uml and MDA. Kevin Lano\nAgile Mode-Based Development Using UML-RSDS. Kevin Lano\nIntroduction to Software Design with Java, 2nd ed. Martin P. Robillard\nApplying UML and Patterns - an Introduction to Object-Oriented Analysis and Design\nJava the UML way - integrating object-oriented design and programming. Else Lervik\nUsing UML - Software Engineering with Objects and Components. Stevens Perdita\nGuide to the unified process featuring UML, Java, and design patterns. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nFundamentals of Object-Oriented Design in UML. Page-Jones Meilir.\n\n\n\n\n\nThe Practical Guide to Structured Systems Design - Page-Jones Meilir.\nThe Essence of Program Design - Douglas Bell\nObject-Oriented Software Construction. Bertrand Meyer\nAn Introduction to Object-Oriented Programming. Timothy A. Budd\nHow to Write Good Programms - Stevens Perdita.\n\n\n\n\n\nDesign Patterns in Java. Steven John Metsker.\nDesign Patterns Explaiend - a new Perspective on Object-Oriented Design. Alan-Trott Shalloway.\nObject-Oriented Design and Paatterns - Cay S. Horstmann.\nDive Into Design Patterns - Alexander Shvets\n\n\n\n\n\nSpecification and Transformation of Programs - A Formal Approach to Softare Development. Helmut A. Partsch. (1990)\nFormal Software Development - From VDM to Java. Quentin Charatan, Aaron Kans.\nFormal Object-Oriented Development. Kevin Lano\nSoftware Abstractions. Logic, Language, and Analysis. Daniel Jackson\nFormal Specification and Design. L. M. G. Feijs.\nThe B-Language Method. Kevin Lano\nModellbildung in der Informatik - Manfred Broy.\nMathematical Approaches to Software Quality. Gerard O’Regan\nValidated Designs for Object-Oriented Systems - John Fitzgerald\nModelling Systems - Practical Tools and Techniques in Software Development. John Fitzgerald.\nSystematic Softare Development Using VDM. Cliff Jones\nProof in VDM - Case Studies. Cliff Jones.\nUsing Z. Jim Woodcock.\nFormal Specification and Documentation Using Z - A Case Study Approach. Jonathan Bowen\nModel-Based Software Testing and Analysis with C#. Jonathan Jacky\nAn Introduction to Discrete Mathematics and Formal System Specification. D. Ince.\nThe Way of Z - Practical Programming with Formal Methods. Jonathan Jacky.\nJava Software Development with Event-B. Nestor Catano Collazos\n\n\n\n\n\n\n\nGreat Ideas in Computer Science with Java. Alan W. Biermann\nClassic Computer Science Problems in Java. David Kopec\n\n\n\n\n\nBig Java. Cay S. Horstmann.\nJava the UML way - Integrating Object-oriented Design and Programming. Else Lervik\nJust Java 2. Peter van der Linden.\nAn Introduction to Object-Oriented Programming with Java. C. Thomas Wu\nBuilding Java Programs - A Back to Basics Approach. Stuart Reges\nIntroduction to Programming Using Java. David J. Eck.\nFundamentals of OOP and Data Structures in Java. Richard Wiener\nLearning Java with Games. Chong-wei Xu.\nJava and Object Orientation - An Introductin. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nModern Java in Action - Lambda, Streams, Functional and Reactive Programming. Roul-Grabriel Urma\nIntroduction to Software Design with Java. Martin P. Robillard.\nSoftware Development Case Studies in Java\n\n\n\n\n\nLearn Object-Oriented Thinking & Programming. Rudolf Pecinovsky\nObjects First with Java - A Practical Introduction Usding Bluej. David Barnes\n\n\n\n\n\nJava Software Structures - Designing and Using Data Structures. Lewis-Joseph Chase\nData Structures and Abstractions with Java. Frank M. Carrano, Walter Savitch.\nData Structures in an Object-Oriented domain. Jean-Paul Tremblay.\nJava Collections - an Introduction to Abstract Data Types, Data Structures and Algorithms. David A. Watt.\nThink Data Structures. Allan B. Downey\n\n\n\n\n\nStart Concurrent - A Gentle Introduction to Concurrent Programming. Barry Wittman.\n\n\n\n\n\n\nArt and Science of Smalltalk - Simon Lewis\nSmalltalk and Object Orientation - An Introduction. John Hunt\nProgramming Smalltalk - Object Oriantation from the Beginning, An Introduction to the principles of Programming. Johannes Brauer.\nSmallTalk, Objects and Design. Chamond Liu"
+    "text": "Object-Oriented Analysis & Design - Understanding System Development with UML 2.0. Mike O’Docherty\nObject-Oriented Design with UML and Java. K. Barclay, J. Savage.\nUML for Java Programmers. Robert Cecil Martin. (a: 4.5)\nHow to Design Classes - Data Structure and Organization. Matthias Felleisen, et. al. \nDesigning Object-Oriented Software. Rebecca Wirfs-Brock\nObject-Oriented Analysis. Peter Coad, Edward Yourdon.\nObject-Oriented Design. Peter Coad\nObject-Oriented Programming. Peter Coad, Edward Yourdon.\nSoftware Design Using Java 2. Kevin Lano\nAdvanced Systems Design with Java, Uml and MDA. Kevin Lano\nAgile Mode-Based Development Using UML-RSDS. Kevin Lano\nIntroduction to Software Design with Java, 2nd ed. Martin P. Robillard\nApplying UML and Patterns - an Introduction to Object-Oriented Analysis and Design\nJava the UML way - integrating object-oriented design and programming. Else Lervik\nUsing UML - Software Engineering with Objects and Components. Stevens Perdita\nGuide to the unified process featuring UML, Java, and design patterns. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nFundamentals of Object-Oriented Design in UML. Page-Jones Meilir.\n\n\n\n\n\nThe Practical Guide to Structured Systems Design - Page-Jones Meilir.\nThe Essence of Program Design - Douglas Bell\nObject-Oriented Software Construction. Bertrand Meyer\nAn Introduction to Object-Oriented Programming. Timothy A. Budd\nHow to Write Good Programms - Stevens Perdita.\n\n\n\n\n\nDesign Patterns in Java. Steven John Metsker.\nDesign Patterns Explaiend - a new Perspective on Object-Oriented Design. Alan-Trott Shalloway.\nObject-Oriented Design and Paatterns - Cay S. Horstmann.\nDive Into Design Patterns - Alexander Shvets\n\n\n\n\n\nSpecification and Transformation of Programs - A Formal Approach to Softare Development. Helmut A. Partsch. (1990)\nFormal Software Development - From VDM to Java. Quentin Charatan, Aaron Kans.\nFormal Object-Oriented Development. Kevin Lano\nSoftware Abstractions. Logic, Language, and Analysis. Daniel Jackson\nFormal Specification and Design. L. M. G. Feijs.\nThe B-Language Method. Kevin Lano\nModellbildung in der Informatik - Manfred Broy.\nMathematical Approaches to Software Quality. Gerard O’Regan\nValidated Designs for Object-Oriented Systems - John Fitzgerald\nModelling Systems - Practical Tools and Techniques in Software Development. John Fitzgerald.\nSystematic Softare Development Using VDM. Cliff Jones\nProof in VDM - Case Studies. Cliff Jones.\nUsing Z. Jim Woodcock.\nFormal Specification and Documentation Using Z - A Case Study Approach. Jonathan Bowen\nModel-Based Software Testing and Analysis with C#. Jonathan Jacky\nAn Introduction to Discrete Mathematics and Formal System Specification. D. Ince.\nThe Way of Z - Practical Programming with Formal Methods. Jonathan Jacky.\nJava Software Development with Event-B. Nestor Catano Collazos\n\n\n\n\n\n\n\nGreat Ideas in Computer Science with Java. Alan W. Biermann\nClassic Computer Science Problems in Java. David Kopec\n\n\n\n\n\nBig Java. Cay S. Horstmann.\nJava the UML way - Integrating Object-oriented Design and Programming. Else Lervik\nJust Java 2. Peter van der Linden.\nAn Introduction to Object-Oriented Programming with Java. C. Thomas Wu\nBuilding Java Programs - A Back to Basics Approach. Stuart Reges\nIntroduction to Programming Using Java. David J. Eck.\nFundamentals of OOP and Data Structures in Java. Richard Wiener\nLearning Java with Games. Chong-wei Xu.\nJava and Object Orientation - An Introductin. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nModern Java in Action - Lambda, Streams, Functional and Reactive Programming. Roul-Grabriel Urma\nIntroduction to Software Design with Java. Martin P. Robillard.\nSoftware Development Case Studies in Java\n\n\n\n\n\nLearn Object-Oriented Thinking & Programming. Rudolf Pecinovsky\nObjects First with Java - A Practical Introduction Usding Bluej. David Barnes\n\n\n\n\n\nJava Software Structures - Designing and Using Data Structures. Lewis-Joseph Chase\nData Structures and Abstractions with Java. Frank M. Carrano, Walter Savitch.\nData Structures in an Object-Oriented domain. Jean-Paul Tremblay.\nJava Collections - an Introduction to Abstract Data Types, Data Structures and Algorithms. David A. Watt.\nThink Data Structures. Allan B. Downey\n\n\n\n\n\nStart Concurrent - A Gentle Introduction to Concurrent Programming. Barry Wittman.\n\n\n\n\n\n\nArt and Science of Smalltalk - Simon Lewis\nSmalltalk and Object Orientation - An Introduction. John Hunt\nObjektorientiert Softwareentwicklung mit Smalltalk. Guenther Vinek.\nSmallTalk, Objects and Design. Chamond Liu\nProgramming Smalltalk - Object Oriantation from the Beginning, An Introduction to the principles of Programming. Johannes Brauer."
   },
   {
     "objectID": "cse/oop-soft-eng-arc/index.html#reading-list",
     "href": "cse/oop-soft-eng-arc/index.html#reading-list",
     "title": "Software Engineering, OOP, UML & Design Patterns",
     "section": "",
-    "text": "Object-Oriented Analysis & Design - Understanding System Development with UML 2.0. Mike O’Docherty\nObject-Oriented Design with UML and Java. K. Barclay, J. Savage.\nUML for Java Programmers. Robert Cecil Martin. (a: 4.5)\nHow to Design Classes - Data Structure and Organization. Matthias Felleisen, et. al. \nDesigning Object-Oriented Software. Rebecca Wirfs-Brock\nObject-Oriented Analysis. Peter Coad, Edward Yourdon.\nObject-Oriented Design. Peter Coad\nObject-Oriented Programming. Peter Coad, Edward Yourdon.\nSoftware Design Using Java 2. Kevin Lano\nAdvanced Systems Design with Java, Uml and MDA. Kevin Lano\nAgile Mode-Based Development Using UML-RSDS. Kevin Lano\nIntroduction to Software Design with Java, 2nd ed. Martin P. Robillard\nApplying UML and Patterns - an Introduction to Object-Oriented Analysis and Design\nJava the UML way - integrating object-oriented design and programming. Else Lervik\nUsing UML - Software Engineering with Objects and Components. Stevens Perdita\nGuide to the unified process featuring UML, Java, and design patterns. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nFundamentals of Object-Oriented Design in UML. Page-Jones Meilir.\n\n\n\n\n\nThe Practical Guide to Structured Systems Design - Page-Jones Meilir.\nThe Essence of Program Design - Douglas Bell\nObject-Oriented Software Construction. Bertrand Meyer\nAn Introduction to Object-Oriented Programming. Timothy A. Budd\nHow to Write Good Programms - Stevens Perdita.\n\n\n\n\n\nDesign Patterns in Java. Steven John Metsker.\nDesign Patterns Explaiend - a new Perspective on Object-Oriented Design. Alan-Trott Shalloway.\nObject-Oriented Design and Paatterns - Cay S. Horstmann.\nDive Into Design Patterns - Alexander Shvets\n\n\n\n\n\nSpecification and Transformation of Programs - A Formal Approach to Softare Development. Helmut A. Partsch. (1990)\nFormal Software Development - From VDM to Java. Quentin Charatan, Aaron Kans.\nFormal Object-Oriented Development. Kevin Lano\nSoftware Abstractions. Logic, Language, and Analysis. Daniel Jackson\nFormal Specification and Design. L. M. G. Feijs.\nThe B-Language Method. Kevin Lano\nModellbildung in der Informatik - Manfred Broy.\nMathematical Approaches to Software Quality. Gerard O’Regan\nValidated Designs for Object-Oriented Systems - John Fitzgerald\nModelling Systems - Practical Tools and Techniques in Software Development. John Fitzgerald.\nSystematic Softare Development Using VDM. Cliff Jones\nProof in VDM - Case Studies. Cliff Jones.\nUsing Z. Jim Woodcock.\nFormal Specification and Documentation Using Z - A Case Study Approach. Jonathan Bowen\nModel-Based Software Testing and Analysis with C#. Jonathan Jacky\nAn Introduction to Discrete Mathematics and Formal System Specification. D. Ince.\nThe Way of Z - Practical Programming with Formal Methods. Jonathan Jacky.\nJava Software Development with Event-B. Nestor Catano Collazos\n\n\n\n\n\n\n\nGreat Ideas in Computer Science with Java. Alan W. Biermann\nClassic Computer Science Problems in Java. David Kopec\n\n\n\n\n\nBig Java. Cay S. Horstmann.\nJava the UML way - Integrating Object-oriented Design and Programming. Else Lervik\nJust Java 2. Peter van der Linden.\nAn Introduction to Object-Oriented Programming with Java. C. Thomas Wu\nBuilding Java Programs - A Back to Basics Approach. Stuart Reges\nIntroduction to Programming Using Java. David J. Eck.\nFundamentals of OOP and Data Structures in Java. Richard Wiener\nLearning Java with Games. Chong-wei Xu.\nJava and Object Orientation - An Introductin. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nModern Java in Action - Lambda, Streams, Functional and Reactive Programming. Roul-Grabriel Urma\nIntroduction to Software Design with Java. Martin P. Robillard.\nSoftware Development Case Studies in Java\n\n\n\n\n\nLearn Object-Oriented Thinking & Programming. Rudolf Pecinovsky\nObjects First with Java - A Practical Introduction Usding Bluej. David Barnes\n\n\n\n\n\nJava Software Structures - Designing and Using Data Structures. Lewis-Joseph Chase\nData Structures and Abstractions with Java. Frank M. Carrano, Walter Savitch.\nData Structures in an Object-Oriented domain. Jean-Paul Tremblay.\nJava Collections - an Introduction to Abstract Data Types, Data Structures and Algorithms. David A. Watt.\nThink Data Structures. Allan B. Downey\n\n\n\n\n\nStart Concurrent - A Gentle Introduction to Concurrent Programming. Barry Wittman.\n\n\n\n\n\n\nArt and Science of Smalltalk - Simon Lewis\nSmalltalk and Object Orientation - An Introduction. John Hunt\nProgramming Smalltalk - Object Oriantation from the Beginning, An Introduction to the principles of Programming. Johannes Brauer.\nSmallTalk, Objects and Design. Chamond Liu"
+    "text": "Object-Oriented Analysis & Design - Understanding System Development with UML 2.0. Mike O’Docherty\nObject-Oriented Design with UML and Java. K. Barclay, J. Savage.\nUML for Java Programmers. Robert Cecil Martin. (a: 4.5)\nHow to Design Classes - Data Structure and Organization. Matthias Felleisen, et. al. \nDesigning Object-Oriented Software. Rebecca Wirfs-Brock\nObject-Oriented Analysis. Peter Coad, Edward Yourdon.\nObject-Oriented Design. Peter Coad\nObject-Oriented Programming. Peter Coad, Edward Yourdon.\nSoftware Design Using Java 2. Kevin Lano\nAdvanced Systems Design with Java, Uml and MDA. Kevin Lano\nAgile Mode-Based Development Using UML-RSDS. Kevin Lano\nIntroduction to Software Design with Java, 2nd ed. Martin P. Robillard\nApplying UML and Patterns - an Introduction to Object-Oriented Analysis and Design\nJava the UML way - integrating object-oriented design and programming. Else Lervik\nUsing UML - Software Engineering with Objects and Components. Stevens Perdita\nGuide to the unified process featuring UML, Java, and design patterns. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nFundamentals of Object-Oriented Design in UML. Page-Jones Meilir.\n\n\n\n\n\nThe Practical Guide to Structured Systems Design - Page-Jones Meilir.\nThe Essence of Program Design - Douglas Bell\nObject-Oriented Software Construction. Bertrand Meyer\nAn Introduction to Object-Oriented Programming. Timothy A. Budd\nHow to Write Good Programms - Stevens Perdita.\n\n\n\n\n\nDesign Patterns in Java. Steven John Metsker.\nDesign Patterns Explaiend - a new Perspective on Object-Oriented Design. Alan-Trott Shalloway.\nObject-Oriented Design and Paatterns - Cay S. Horstmann.\nDive Into Design Patterns - Alexander Shvets\n\n\n\n\n\nSpecification and Transformation of Programs - A Formal Approach to Softare Development. Helmut A. Partsch. (1990)\nFormal Software Development - From VDM to Java. Quentin Charatan, Aaron Kans.\nFormal Object-Oriented Development. Kevin Lano\nSoftware Abstractions. Logic, Language, and Analysis. Daniel Jackson\nFormal Specification and Design. L. M. G. Feijs.\nThe B-Language Method. Kevin Lano\nModellbildung in der Informatik - Manfred Broy.\nMathematical Approaches to Software Quality. Gerard O’Regan\nValidated Designs for Object-Oriented Systems - John Fitzgerald\nModelling Systems - Practical Tools and Techniques in Software Development. John Fitzgerald.\nSystematic Softare Development Using VDM. Cliff Jones\nProof in VDM - Case Studies. Cliff Jones.\nUsing Z. Jim Woodcock.\nFormal Specification and Documentation Using Z - A Case Study Approach. Jonathan Bowen\nModel-Based Software Testing and Analysis with C#. Jonathan Jacky\nAn Introduction to Discrete Mathematics and Formal System Specification. D. Ince.\nThe Way of Z - Practical Programming with Formal Methods. Jonathan Jacky.\nJava Software Development with Event-B. Nestor Catano Collazos\n\n\n\n\n\n\n\nGreat Ideas in Computer Science with Java. Alan W. Biermann\nClassic Computer Science Problems in Java. David Kopec\n\n\n\n\n\nBig Java. Cay S. Horstmann.\nJava the UML way - Integrating Object-oriented Design and Programming. Else Lervik\nJust Java 2. Peter van der Linden.\nAn Introduction to Object-Oriented Programming with Java. C. Thomas Wu\nBuilding Java Programs - A Back to Basics Approach. Stuart Reges\nIntroduction to Programming Using Java. David J. Eck.\nFundamentals of OOP and Data Structures in Java. Richard Wiener\nLearning Java with Games. Chong-wei Xu.\nJava and Object Orientation - An Introductin. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nModern Java in Action - Lambda, Streams, Functional and Reactive Programming. Roul-Grabriel Urma\nIntroduction to Software Design with Java. Martin P. Robillard.\nSoftware Development Case Studies in Java\n\n\n\n\n\nLearn Object-Oriented Thinking & Programming. Rudolf Pecinovsky\nObjects First with Java - A Practical Introduction Usding Bluej. David Barnes\n\n\n\n\n\nJava Software Structures - Designing and Using Data Structures. Lewis-Joseph Chase\nData Structures and Abstractions with Java. Frank M. Carrano, Walter Savitch.\nData Structures in an Object-Oriented domain. Jean-Paul Tremblay.\nJava Collections - an Introduction to Abstract Data Types, Data Structures and Algorithms. David A. Watt.\nThink Data Structures. Allan B. Downey\n\n\n\n\n\nStart Concurrent - A Gentle Introduction to Concurrent Programming. Barry Wittman.\n\n\n\n\n\n\nArt and Science of Smalltalk - Simon Lewis\nSmalltalk and Object Orientation - An Introduction. John Hunt\nObjektorientiert Softwareentwicklung mit Smalltalk. Guenther Vinek.\nSmallTalk, Objects and Design. Chamond Liu\nProgramming Smalltalk - Object Oriantation from the Beginning, An Introduction to the principles of Programming. Johannes Brauer."
   },
   {
-    "objectID": "finance-econ/microecon/index.html",
-    "href": "finance-econ/microecon/index.html",
-    "title": "NB",
+    "objectID": "cse/index.html",
+    "href": "cse/index.html",
+    "title": "Computer Science & Engineering",
     "section": "",
-    "text": "hey"
+    "text": "software engineering, oop, design patterns, uml link",
+    "crumbs": [
+      "Sections",
+      "Computer Science & Engineering"
+    ]
   },
   {
     "objectID": "humanities/trivium/index.html",
@@ -98,10 +53,79 @@
     "text": "Creative & Academic Writing, Creating & Academic Reading, Creative Rhetoric"
   },
   {
+    "objectID": "humanities/index.html",
+    "href": "humanities/index.html",
+    "title": "Humanities",
+    "section": "",
+    "text": "trivium",
+    "crumbs": [
+      "Sections",
+      "Humanities"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "NB",
     "section": "",
     "text": "math\ncs\nnatural sciences\nlife sciences\nfinance and economics\nhumanities\nlife"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "NB - My Own KNowledge Base"
+  },
+  {
+    "objectID": "finance-econ/microecon/index.html",
+    "href": "finance-econ/microecon/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "hey"
+  },
+  {
+    "objectID": "math/index.html",
+    "href": "math/index.html",
+    "title": "Math",
+    "section": "",
+    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic",
+    "crumbs": [
+      "Sections",
+      "Math"
+    ]
+  },
+  {
+    "objectID": "math/index.html#foundations",
+    "href": "math/index.html#foundations",
+    "title": "Math",
+    "section": "",
+    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic",
+    "crumbs": [
+      "Sections",
+      "Math"
+    ]
+  },
+  {
+    "objectID": "math/index.html#applied-mathematics",
+    "href": "math/index.html#applied-mathematics",
+    "title": "Math",
+    "section": "Applied Mathematics",
+    "text": "Applied Mathematics\n\nprobability & statistics\nnumerical mathematics\ndynamical systems\nfractals\ngeneral applied mathematics",
+    "crumbs": [
+      "Sections",
+      "Math"
+    ]
+  },
+  {
+    "objectID": "math/index.html#higher-mathematics",
+    "href": "math/index.html#higher-mathematics",
+    "title": "Math",
+    "section": "Higher Mathematics",
+    "text": "Higher Mathematics\n\nfunctional analysis\nmeasure theory\ntopology\nmetric spaces\ndifferential geometry",
+    "crumbs": [
+      "Sections",
+      "Math"
+    ]
   }
 ]
