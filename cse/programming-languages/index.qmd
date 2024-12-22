@@ -1,0 +1,5 @@
+## Various Programming Languages
+
+
+* [python](./python/index.qmd)
+

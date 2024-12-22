@@ -1,0 +1,62 @@
+# Python
+
+## Literature
+
+### General
+
+1. Practical Programming - An Introduction to Computer Science Using Python 3.6. Paul Gries
+2. Think Python. Allen B. Downey
+3. Python Programming Fundamentals. Kent D. Lee 
+4. An Introduction to Python and Computer Programming. Yue Zhang
+5. A Beginners Guide to Python 3 Programming. John Hunt
+6. Python - An Introduction to Programming. James R. Parker
+7. Python for Everyone. Cay Horstmann.
+8. Einfuerhung in Python 3. Bernd Klein
+9. A Functional Start to Computing with Python. Ted Herman
+10. Fundamentals of Python - First Programs. Kenneth A. Lambert
+
+### Introduction to Computer Science with Python
+
+1. Explorations in Computing - An Introduction to Computer Science and Python Programming. John S. Conery
+2. Discovering Computer Science - Interdisciplinary Problems, Principles, and Ptyhon Programming. Jessen Havill
+3. Computational Thinking. Karl Beecher
+
+
+### Algorithms & Data Structures with Python
+
+1. Data Structures and Algorithms with Python. Kent D. Lee
+2. Problem Solving with Algorithms and Data Structures. Brad Miller, David Ranum.
+3. Data Structures & Algorithms in Python. John Canning, Robert Lafore
+4. Data Structures and Algorithms Using Python. Rance D. Necaise
+5. Fundamentals of Python Data Structures. Kenneth A. Lambert
+
+### Scientific Computing & Data Science with Python
+
+#### General
+
+1. Learning Scientific Programming with Python. Christian Hill
+2. Introduction to Computation and Programming Using Python - With Application to Understanding Data. John V. Guttag
+3. Intro to Python - for Computer Science and Data Science. Paul Deitel, Harvey Deitel.
+4. Introduction to Data Science - A Python Approach to Concepts, Techniques and Applications. Laura Igual
+5. Think Stats - Exploratory Data Analysis. Allen B. Downey
+4. Python for Data Analysis - Data Wrangling with Pandas, NumPy & Jupyter. Wes McKinney
+4. Learning Data Science - Data Wrangling, Exploration, Visualization, and Modeling with Python. Sam Lau, Joseph Gonzalez.
+
+#### SciPy & NumPy
+
+1. SciPy and NumPy. Eli Bressert
+2. Learning SciPy for Numerical and Scientific Computing. Sergio J. Rojas.
+3. Elegant SciPy - The Art of Scientific Python. Juan Nunez-Iglesias
+5. Matplotlib for Python Developers. Sandro Tosi
+
+
+### Pracitcal Python, Projects & Exercises
+
+1. Math Adventures with Python. Peter Farrell
+3. Impractical Python Projects. Lee Vaughan
+4. Real World Python. Lee Vaughan
+5. Learn Ptyhon Visually. Tristan Bunn
+6. The Big Book of Small Python Projects. Al Sweigart
+7. Invent Your own Computer Games with Python. Al Sweigart
+1. Automate Boring Stuff with Ptyhon. Al Sweigart
+8. Beyond the Basic Stuff with Python - Best Pracitces for Writing Clean Code. Al Sweigart
