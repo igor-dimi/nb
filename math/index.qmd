@@ -8,7 +8,7 @@ title: Math
 * symmetry
 * general math
 * linear algebra
-* analysis
+* [analysis](./ana/index.qmd)
 * discrete mathematics 
   * combinatorics
   * graph theory

@@ -2,7 +2,7 @@
 title: "NB"
 ---
 
-* [math](./math/)
+* [math](./math/index.qmd)
 * [cs](./cse/)
 * [natural sciences](./nat-sci/)
 * [life sciences](./life-sci)
