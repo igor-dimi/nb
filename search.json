@@ -43,28 +43,14 @@
     "href": "humanities/trivium/index.html",
     "title": "Trivium",
     "section": "",
-    "text": "Trivium: Logic, grammar, rhetoric."
+    "text": "Trivium: Logic, grammar, rhetoric.\nSee also:"
   },
   {
-    "objectID": "humanities/trivium/index.html#general-trivium-education",
-    "href": "humanities/trivium/index.html#general-trivium-education",
+    "objectID": "humanities/trivium/index.html#reading-list",
+    "href": "humanities/trivium/index.html#reading-list",
     "title": "Trivium",
-    "section": "General Trivium Education",
-    "text": "General Trivium Education\n\nnotes"
-  },
-  {
-    "objectID": "humanities/trivium/index.html#logic-critical-thinking-argumentation-argumentative-rhetoric",
-    "href": "humanities/trivium/index.html#logic-critical-thinking-argumentation-argumentative-rhetoric",
-    "title": "Trivium",
-    "section": "Logic, Critical Thinking, Argumentation, Argumentative Rhetoric",
-    "text": "Logic, Critical Thinking, Argumentation, Argumentative Rhetoric"
-  },
-  {
-    "objectID": "humanities/trivium/index.html#creative-academic-writing-creating-academic-reading-creative-rhetoric",
-    "href": "humanities/trivium/index.html#creative-academic-writing-creating-academic-reading-creative-rhetoric",
-    "title": "Trivium",
-    "section": "Creative & Academic Writing, Creating & Academic Reading, Creative Rhetoric",
-    "text": "Creative & Academic Writing, Creating & Academic Reading, Creative Rhetoric"
+    "section": "Reading List",
+    "text": "Reading List\n\nGeneral\n\nTrivium. [Sister Miriam Joseph]\nThe Well-Educated Mind [Susan Wise Bauer]\nA Student’s Guide to Liberal Learning [James V. Schall]\nThe Lost Tools of Learning [Dorothy L. Sayers]\n\n\n\nPractical Logic & Critical Thinking\n\nIntroduction to Logic. [Irving Copi, Carl Cohen]\nPractical Logic - An Antidoe for Uncritical Thinking. [Douglas Soccia, Vincent Barry]\nPractical Logic. [Beardsley]\nConcise Introduction to Logic [Hurley]\nThinking Straight - Principles of Reasoning. [Monroe C. Beardsley]\nBeing Logical - A Guide to Good Thinking. [D. Q. McInerny]\nLearning to Think Things Through. [Gerald Nosich]\nThe Power of Logic. [Stephen Layman]\nThe Power of Logic. [Frances Howard Snyder, Daniel Howard-Snyder]\nThe Minto Pyramid. [Barbara Minto]\nInformal Logical Fallacies. [Jacob E. Van Vleet]\n\n\n\nArgument and Rhetoric\n\nWriting with Reason - Logic for Composition. [Monroe C. Beardsley]\nGood Reason for Writing - A Text with Readings. [Vincent Barry]\nUnderstanding Arguments. [Walter Sinnott-Armstrong]\nCritical Writing - A Guide to Writing a Paper Using the Concepts and Processes of Critical Thinking. [Gerald Nosich]\nSteps to Writing Well. [Jean Wyrick]\nCritical Thinking. [Richard B. Parker, Brooke Noel Moore]\nClassical Rhetoric for the Modern Student. [Edward P. J. Corbett]\nEveryday Arguments: A Guide to Writing and Reading Effective Arguments. [Katherine Mayberry]\n\n\n\nWriting\n\nHow to Write. [Alastair Fowler]\nWriting Well - The Esential Guide [Mark Tredinnick]\nElements of Style. [Strunk, White]\nStyle - Towards Clarity and Grace. [Joseph M. Williams]\nThe Good Grammar Guide. [Richard Palmer]\nLanguage in Literature - An Introduction to Stylistics. [Michael Toolan]\nWords Fail me - What Everyone who Writes Should Know About Writing. [Patricia O’Conner]\nSteering the Craft: Exercises and Discussions on Story Writing for the Lone Navigator or the Mutinous Crew. [Ursula Le Guin]\nThe Book on Writing - The Ultimate Guide. [Paula LaRocque]\nSin and Syntax - How to Write Wicked Good Prose. [Constance Hale]\nOxford Essential Guide to Writing\nThe Sense of Style - the Thinking Person’s Guide to Writing in the 21st Century!. [Steven Pinker]\nThe Rhetoric of Fiction. [Booth Wayne]\nThe Elements of Eloquence. [Mark Forsyth]\n\n\nScientific Writing & Presentation, Research\n\nWriting for Computer Science. [Justin Zobel]\nHow to Write Your First Thesis. [Justin Zobel]\nHow to Write a Better Thesis. [Evans, Gruba, Zobel]\nScientific Writing - A Reader and Writer’s Guide. [Jean-Luc Lebrun]\nThe Craft of Scientific Writing. [Michael Alley]\nA Manual for Writers of Research Papers, Theses, and Dissertations. [Kate L. Turabian]\n\n\n\n\nLiterature\n\nTheme and Form. [Beardsley]\nThis Thing Called Literature. [Andrew Bennett]\nLiterature Criticism and Theory. [Andrew Bennett]\nThe Cambridge Introduction to Narrative. [H. Porter Abbott]\nAn Introduction to Literature. [Sylvan Barnet]\nHow to Read Literature Like a Professor [Thomas C. Foster]"
   },
   {
     "objectID": "humanities/index.html",
@@ -141,6 +127,20 @@
       "Sections",
       "Math"
     ]
+  },
+  {
+    "objectID": "math/ana/index.html",
+    "href": "math/ana/index.html",
+    "title": "Analysis",
+    "section": "",
+    "text": "A Course in Mathematical Analysis. [David Brannan]"
+  },
+  {
+    "objectID": "math/ana/index.html#reading-list",
+    "href": "math/ana/index.html#reading-list",
+    "title": "Analysis",
+    "section": "",
+    "text": "A Course in Mathematical Analysis. [David Brannan]"
   },
   {
     "objectID": "cse/programming-languages/index.html",
