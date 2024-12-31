@@ -4,10 +4,81 @@ title: Trivium
 
 Trivium: Logic, grammar, rhetoric. 
 
-## General Trivium Education
-
 * [notes](https://igor-dimi.github.io/trivium-notes/)
 
-## Logic, Critical Thinking, Argumentation, Argumentative Rhetoric
+See also:
 
-## Creative & Academic Writing, Creating & Academic Reading, Creative Rhetoric
+* Visual rhetoric and semiotics
+* Film studies
+* Language of architecture and urbanism
+
+## Reading List
+
+### General
+
+* Trivium. [Sister Miriam Joseph]
+* The Well-Educated Mind [Susan Wise Bauer]
+* A Student's Guide to Liberal Learning [James V. Schall]
+* The Lost Tools of Learning [Dorothy L. Sayers] 
+
+### Practical Logic & Critical Thinking
+
+* Introduction to Logic. [Irving Copi, Carl Cohen]
+* Practical Logic - An Antidoe for Uncritical Thinking. [Douglas Soccia, Vincent Barry]
+* Practical Logic. [Beardsley]
+* Concise Introduction to Logic [Hurley]
+* Thinking Straight - Principles of Reasoning. [Monroe C. Beardsley]
+* Being Logical - A Guide to Good Thinking. [D. Q. McInerny]
+* Learning to Think Things Through. [Gerald Nosich]
+* The Power of Logic. [Stephen Layman]
+* The Power of Logic. [Frances Howard Snyder, Daniel Howard-Snyder]
+* The Minto Pyramid. [Barbara Minto]
+* Informal Logical Fallacies. [Jacob E. Van Vleet]
+  
+### Argument and Rhetoric 
+
+* Writing with Reason - Logic for Composition. [Monroe C. Beardsley]
+* Good Reason for Writing - A Text with Readings. [Vincent Barry]
+* Understanding Arguments. [Walter Sinnott-Armstrong]
+* Critical Writing - A Guide to Writing a Paper Using the Concepts and Processes of Critical
+  Thinking. [Gerald Nosich]
+* Steps to Writing Well. [Jean Wyrick]
+* Critical Thinking. [Richard B. Parker, Brooke Noel Moore]
+* Classical Rhetoric for the Modern Student. [Edward P. J. Corbett]
+* Everyday Arguments: A Guide to Writing and Reading Effective Arguments. [Katherine Mayberry]
+
+### Writing 
+
+* How to Write. [Alastair Fowler]
+* Writing Well - The Esential Guide [Mark Tredinnick]
+* Elements of Style. [Strunk, White]
+* Style - Towards Clarity and Grace. [Joseph M. Williams]
+* The Good Grammar Guide. [Richard Palmer]
+* Language in Literature - An Introduction to Stylistics. [Michael Toolan]
+* Words Fail me - What Everyone who Writes Should Know About Writing. [Patricia O'Conner]
+* Steering the Craft: Exercises and Discussions on Story Writing for the Lone Navigator or the
+  Mutinous Crew. [Ursula Le Guin]
+* The Book on Writing - The Ultimate Guide. [Paula LaRocque]
+* Sin and Syntax - How to Write Wicked Good Prose. [Constance Hale]
+* Oxford Essential Guide to Writing
+* The Sense of Style - the Thinking Person's Guide to Writing in the 21st Century!. [Steven Pinker]
+* The Rhetoric of Fiction. [Booth Wayne]
+* The Elements of Eloquence. [Mark Forsyth]
+
+#### Scientific Writing & Presentation, Research
+
+* Writing for Computer Science. [Justin Zobel]
+* How to Write Your First Thesis. [Justin Zobel]
+* How to Write a Better Thesis. [Evans, Gruba, Zobel]
+* Scientific Writing - A Reader and Writer's Guide. [Jean-Luc Lebrun]
+* The Craft of Scientific Writing. [Michael Alley]
+* A Manual for Writers of Research Papers, Theses, and Dissertations. [Kate L. Turabian]
+
+### Literature
+
+* Theme and Form. [Beardsley]
+* This Thing Called Literature. [Andrew Bennett]
+* Literature Criticism and Theory. [Andrew Bennett]
+* The Cambridge Introduction to Narrative. [H. Porter Abbott]
+* An Introduction to Literature. [Sylvan Barnet]
+* How to Read Literature Like a Professor [Thomas C. Foster]
