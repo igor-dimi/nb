@@ -4,3 +4,4 @@ title: Computer Science & Engineering
 
   * software engineering, oop, design patterns, uml [link](./oop-soft-eng-arc)
   * various programming languages [link](./programming-languages/index.qmd)
+  * functional programming [link](./functional-programming/index.qmd)

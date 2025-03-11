@@ -1,0 +1,3 @@
+## Functional Programming 
+
+* notes [link](https://igor-dimi.github.io/fp-notes/)
