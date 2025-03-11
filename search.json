@@ -32,7 +32,7 @@
     "href": "cse/index.html",
     "title": "Computer Science & Engineering",
     "section": "",
-    "text": "software engineering, oop, design patterns, uml link\nvarious programming languages link",
+    "text": "software engineering, oop, design patterns, uml link\nvarious programming languages link\nfunctional programming link",
     "crumbs": [
       "Sections",
       "Computer Science & Engineering"
@@ -141,6 +141,20 @@
     "title": "Analysis",
     "section": "",
     "text": "A Course in Mathematical Analysis. [David Brannan]"
+  },
+  {
+    "objectID": "cse/functional-programming/index.html",
+    "href": "cse/functional-programming/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "notes link"
+  },
+  {
+    "objectID": "cse/functional-programming/index.html#functional-programming",
+    "href": "cse/functional-programming/index.html#functional-programming",
+    "title": "NB",
+    "section": "",
+    "text": "notes link"
   },
   {
     "objectID": "cse/programming-languages/index.html",
