@@ -3,32 +3,59 @@ project:
 
 website:
   title: "NB"
+  page-navigation: true
+  back-to-top-navigation: true
+  page-footer: 
+    left: 
+      - text: "Igor Dimitrov"
+        href: https://igor-dimi.github.io 
+    right: 
+      - icon: github
+        href: https://github.com/igor-dimi
   navbar:
+    background: light
+    search: true
     left:
       - sidebar:main-sections
       - about.qmd
-      - index.qmd
-
     
   sidebar:
     - id: main-sections
-      title: "Main Sections"
+      style: "docked"
+      search: true
+      title: "Sections"
       contents: 
-        - section: "Sections"
-          contents:
-            - math/index.qmd
-            - cse/index.qmd
-            - nat-sci/index.qmd
-            - life-sci/index.qmd
-            - finance-econ/index.qmd
-            - humanities/index.qmd
-            - life/index.qmd
+        - math/index.qmd
+        - text: "CSE"
+          href: cse/index.qmd
+        - nat-sci/index.qmd
+        - finance-econ/index.qmd
+        - humanities/index.qmd
+        - life/index.qmd
+
+    - id: cse
+      title: "CSE"
+      contents:
+        - cse/functional-programming/index.qmd
+        - section: "Various Languages"
+          href: cse/programming-languages/index.qmd
+          contents: 
+            - text: "Python"
+              href: cse/programming-languages/python/index.qmd
+        - text: "SE & OOP"
+          href: cse/oop-soft-eng-arc/index.qmd
+    
+  # sidebar:
+  #   contents: auto 
+  
         
 
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
 

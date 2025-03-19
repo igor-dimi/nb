@@ -5,8 +5,7 @@ title: "NB"
 * [math](./math/index.qmd)
 * [cs](./cse/)
 * [natural sciences](./nat-sci/)
-* [life sciences](./life-sci)
 * [finance and economics](./finance-econ/)
 * [humanities](./humanities/)
-* [life](./life/)
+* [other](./life/)
 

@@ -1,5 +1,7 @@
 # Software Engineering, OOP, UML & Design Patterns 
 
+[notes](https://igor-dimi.github.io/software-engineering-notes/)
+
 ## Reading List 
 
 ### OOP Analysis & Design with UML
