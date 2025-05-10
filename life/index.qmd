@@ -2,3 +2,6 @@
 title: Other
 ---
 
+* [notes](https://igor-dimi.github.io/life-skills-and-other-hobbies-notes/)
+
+
