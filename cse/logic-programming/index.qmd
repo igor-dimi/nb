@@ -1,0 +1,5 @@
+---
+title: "Logic Programming"
+---
+
+* [notes](https://igor-dimi.github.io/logic-programming-notes/)

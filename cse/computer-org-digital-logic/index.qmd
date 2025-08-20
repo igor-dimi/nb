@@ -1,0 +1,8 @@
+---
+title: "Digital Logic & Computer Hardware"
+---
+
+Assembly programming too
+
+* [notes](https://igor-dimi.github.io/digital-logic-and-computer-architecture-notes/)
+

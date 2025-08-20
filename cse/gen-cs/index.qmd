@@ -1,0 +1,5 @@
+---
+title: "General CS"
+---
+
+* [notes](https://igor-dimi.github.io/general-cs-notes/)

@@ -2,6 +2,9 @@
 title: Math
 ---
 
+
+* [notes](https://igor-dimi.github.io/mathematics-notes/)
+
 ## Foundations
 
 * problem solving

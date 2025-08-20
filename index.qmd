@@ -1,5 +1,6 @@
 ---
 title: "NB"
+sidebar: main-sections
 ---
 
 * [math](./math/index.qmd)

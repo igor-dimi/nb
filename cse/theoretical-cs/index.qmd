@@ -1,0 +1,7 @@
+---
+title: "Theoretical CS"
+---
+
+Automata and languages, computability, complexity 
+
+* [notes](https://igor-dimi.github.io/theoretical-cs-notes/)

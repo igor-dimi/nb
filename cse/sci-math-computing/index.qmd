@@ -1,0 +1,6 @@
+---
+title: "Scientific and Symbolic Computing"
+---
+
+* [notes](https://igor-dimi.github.io/scientific-and-symbolic-computing-software-notes/)
+

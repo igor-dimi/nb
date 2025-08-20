@@ -1,6 +1,7 @@
 # Software Engineering, OOP, UML & Design Patterns 
 
-[notes](https://igor-dimi.github.io/software-engineering-notes/)
+* [notes](https://igor-dimi.github.io/software-engineering-notes/)
+* [notes - oop specific](https://igor-dimi.github.io/OOP-notes/)
 
 ## Reading List 
 

@@ -18,7 +18,11 @@ website:
     left:
       - sidebar:main-sections
       - about.qmd
-    
+      - text: "More"
+    tools:
+      - icon: github
+        href: https://github.com/igor-dimi/nb
+
   sidebar:
     - id: main-sections
       style: "docked"
@@ -36,7 +40,24 @@ website:
     - id: cse
       title: "CSE"
       contents:
-        - cse/functional-programming/index.qmd
+        - cse/gen-cs/index.qmd
+        - cse/programming/index.qmd
+        - cse/ads/index.qmd
+        - section: "Theoretical"
+          contents:
+            - cse/theoretical-cs/index.qmd
+            - cse/programming-from-spec/index.qmd
+            - cse/functional-programming/index.qmd
+            - cse/logic-programming/index.qmd
+            - cse/plt/index.qmd
+        - cse/unix/index.qmd
+        - section: "System Programming"
+          contents:
+            - cse/os/index.qmd
+            - cse/compilers/index.qmd
+            - cse/databases/index.qmd
+            - cse/computer-org-digital-logic/index.qmd
+        - cse/sci-math-computing/index.qmd
         - section: "Various Languages"
           href: cse/programming-languages/index.qmd
           contents: 
@@ -44,9 +65,11 @@ website:
               href: cse/programming-languages/python/index.qmd
         - text: "SE & OOP"
           href: cse/oop-soft-eng-arc/index.qmd
+        - text: "Web Programming"
+          href: cse/web-dev/index.qmd
     
   # sidebar:
-  #   contents: auto 
+  #   contents: auto
   
         
 
