@@ -361,7 +361,57 @@
     "href": "cse/index.html",
     "title": "Computer Science & Engineering",
     "section": "",
-    "text": "software engineering, oop, design patterns, uml link\nvarious programming languages link\nfunctional programming link\n\n\n\n\n Back to top",
+    "text": "general cs\nprogramming\nads & competitive programming link",
+    "crumbs": [
+      "CSE"
+    ]
+  },
+  {
+    "objectID": "cse/index.html#intro",
+    "href": "cse/index.html#intro",
+    "title": "Computer Science & Engineering",
+    "section": "",
+    "text": "general cs\nprogramming\nads & competitive programming link",
+    "crumbs": [
+      "CSE"
+    ]
+  },
+  {
+    "objectID": "cse/index.html#theoretical",
+    "href": "cse/index.html#theoretical",
+    "title": "Computer Science & Engineering",
+    "section": "Theoretical",
+    "text": "Theoretical\n\ntheoretical cs\nprogramming from sepc\nfp\nlogic programming\nplt",
+    "crumbs": [
+      "CSE"
+    ]
+  },
+  {
+    "objectID": "cse/index.html#applied",
+    "href": "cse/index.html#applied",
+    "title": "Computer Science & Engineering",
+    "section": "Applied",
+    "text": "Applied\n\nlinux\nweb programming\nSE & OOP",
+    "crumbs": [
+      "CSE"
+    ]
+  },
+  {
+    "objectID": "cse/index.html#systems-programming",
+    "href": "cse/index.html#systems-programming",
+    "title": "Computer Science & Engineering",
+    "section": "Systems Programming",
+    "text": "Systems Programming\n\nOS & Networks\ncompilers\ndatabases\ndigital logic & computer hardware link",
+    "crumbs": [
+      "CSE"
+    ]
+  },
+  {
+    "objectID": "cse/index.html#other",
+    "href": "cse/index.html#other",
+    "title": "Computer Science & Engineering",
+    "section": "Other",
+    "text": "Other\n\nscientific & symbolic computing link\nvarious programming languages link",
     "crumbs": [
       "CSE"
     ]
@@ -995,12 +1045,12 @@
   {
     "objectID": "cse/os/index.html",
     "href": "cse/os/index.html",
-    "title": "Operating Systems",
+    "title": "Operating Systems & Networks",
     "section": "",
     "text": "notes\n\n\n\n\n Back to top",
     "crumbs": [
       "System Programming",
-      "Operating Systems"
+      "Operating Systems & Networks"
     ]
   },
   {
