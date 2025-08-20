@@ -1,77 +1,171 @@
 [
   {
-    "objectID": "cse/computer-graphics/index.html",
-    "href": "cse/computer-graphics/index.html",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "NB - My Own KNowledge Base\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "nat-sci/mechanical-eng/dynamics/index.html",
+    "href": "nat-sci/mechanical-eng/dynamics/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/unix/index.html",
-    "href": "cse/unix/index.html",
+    "objectID": "nat-sci/mechanical-eng/mechanics/index.html",
+    "href": "nat-sci/mechanical-eng/mechanics/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/web-dev/duckett/vol2/index.html",
-    "href": "cse/web-dev/duckett/vol2/index.html",
+    "objectID": "nat-sci/mechanical-eng/index.html",
+    "href": "nat-sci/mechanical-eng/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/web-dev/duckett/vol1/ch01/index.html",
-    "href": "cse/web-dev/duckett/vol1/ch01/index.html",
+    "objectID": "nat-sci/electrical-eng/microcontrollers/index.html",
+    "href": "nat-sci/electrical-eng/microcontrollers/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/web-dev/duckett/vol1/index.html",
-    "href": "cse/web-dev/duckett/vol1/index.html",
+    "objectID": "nat-sci/electrical-eng/networks/index.html",
+    "href": "nat-sci/electrical-eng/networks/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/web-dev/index.html",
-    "href": "cse/web-dev/index.html",
+    "objectID": "nat-sci/electrical-eng/index.html",
+    "href": "nat-sci/electrical-eng/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/theoretical-cs/index.html",
-    "href": "cse/theoretical-cs/index.html",
+    "objectID": "nat-sci/physics/theoretical-mechanics/index.html",
+    "href": "nat-sci/physics/theoretical-mechanics/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/sci-math-computing/scipy-numpy/index.html",
-    "href": "cse/sci-math-computing/scipy-numpy/index.html",
+    "objectID": "nat-sci/physics/classical-mechanics/index.html",
+    "href": "nat-sci/physics/classical-mechanics/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/sci-math-computing/matlab/rovenski/ch01/index.html",
-    "href": "cse/sci-math-computing/matlab/rovenski/ch01/index.html",
+    "objectID": "nat-sci/index.html",
+    "href": "nat-sci/index.html",
+    "title": "Natural Sciences",
+    "section": "",
+    "text": "Physical Sciences\n\n\nLife Sciences\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Natural Sciences"
+    ]
+  },
+  {
+    "objectID": "cse/programming-languages/erlang/index.html",
+    "href": "cse/programming-languages/erlang/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/sci-math-computing/matlab/attaway/index.html",
-    "href": "cse/sci-math-computing/matlab/attaway/index.html",
+    "objectID": "cse/programming-languages/cpp/index.html",
+    "href": "cse/programming-languages/cpp/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/sci-math-computing/matlab/gander/ch01/index.html",
-    "href": "cse/sci-math-computing/matlab/gander/ch01/index.html",
+    "objectID": "cse/programming-languages/java/index.html",
+    "href": "cse/programming-languages/java/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/programming-languages/ruby/index.html",
+    "href": "cse/programming-languages/ruby/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/programming-languages/clojure/index.html",
+    "href": "cse/programming-languages/clojure/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/programming-languages/index.html",
+    "href": "cse/programming-languages/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "python",
+    "crumbs": [
+      "Various Languages"
+    ]
+  },
+  {
+    "objectID": "cse/programming-languages/index.html#various-programming-languages",
+    "href": "cse/programming-languages/index.html#various-programming-languages",
+    "title": "NB",
+    "section": "",
+    "text": "python",
+    "crumbs": [
+      "Various Languages"
+    ]
+  },
+  {
+    "objectID": "cse/plt/index.html",
+    "href": "cse/plt/index.html",
+    "title": "PLT",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Theoretical",
+      "PLT"
+    ]
+  },
+  {
+    "objectID": "cse/logic-programming/index.html",
+    "href": "cse/logic-programming/index.html",
+    "title": "Logic Programming",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Theoretical",
+      "Logic Programming"
+    ]
+  },
+  {
+    "objectID": "cse/sci-math-computing/mathematica/index.html",
+    "href": "cse/sci-math-computing/mathematica/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/sci-math-computing/matlab/rovenski/index.html",
+    "href": "cse/sci-math-computing/matlab/rovenski/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/sci-math-computing/matlab/gander/ch03/index.html",
+    "href": "cse/sci-math-computing/matlab/gander/ch03/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
@@ -84,15 +178,22 @@
     "text": "Back to top"
   },
   {
-    "objectID": "cse/sci-math-computing/mathematica/index.html",
-    "href": "cse/sci-math-computing/mathematica/index.html",
+    "objectID": "cse/sci-math-computing/matlab/index.html",
+    "href": "cse/sci-math-computing/matlab/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/sci-math-computing/R/index.html",
-    "href": "cse/sci-math-computing/R/index.html",
+    "objectID": "cse/sci-math-computing/gnuplot/index.html",
+    "href": "cse/sci-math-computing/gnuplot/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/sci-math-computing/sage/index.html",
+    "href": "cse/sci-math-computing/sage/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
@@ -100,37 +201,118 @@
   {
     "objectID": "cse/sci-math-computing/index.html",
     "href": "cse/sci-math-computing/index.html",
+    "title": "Scientific and Symbolic Computing",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Scientific and Symbolic Computing"
+    ]
+  },
+  {
+    "objectID": "cse/compilers/index.html",
+    "href": "cse/compilers/index.html",
+    "title": "Compilers",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "System Programming",
+      "Compilers"
+    ]
+  },
+  {
+    "objectID": "cse/functional-programming/scheme/index.html",
+    "href": "cse/functional-programming/scheme/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/plt/index.html",
-    "href": "cse/plt/index.html",
+    "objectID": "cse/functional-programming/index.html",
+    "href": "cse/functional-programming/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "notes link",
+    "crumbs": [
+      "Theoretical",
+      "Functional Programming"
+    ]
+  },
+  {
+    "objectID": "cse/functional-programming/index.html#functional-programming",
+    "href": "cse/functional-programming/index.html#functional-programming",
+    "title": "NB",
+    "section": "",
+    "text": "notes link",
+    "crumbs": [
+      "Theoretical",
+      "Functional Programming"
+    ]
+  },
+  {
+    "objectID": "cse/functional-programming/haskell/fokker/index.html",
+    "href": "cse/functional-programming/haskell/fokker/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/gen-cs/index.html",
-    "href": "cse/gen-cs/index.html",
+    "objectID": "cse/programming/logo/harvey/vol1/ch01/index.html",
+    "href": "cse/programming/logo/harvey/vol1/ch01/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/latex-ps/index.html",
-    "href": "cse/latex-ps/index.html",
+    "objectID": "cse/programming/logo/harvey/vol1/index.html",
+    "href": "cse/programming/logo/harvey/vol1/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "cse/programming/logo/index.html",
+    "href": "cse/programming/logo/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/web-dev/duckett/vol1/ch01/index.html",
+    "href": "cse/web-dev/duckett/vol1/ch01/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/web-dev/duckett/vol1/ch02/index.html",
+    "href": "cse/web-dev/duckett/vol1/ch02/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/web-dev/duckett/vol2/index.html",
+    "href": "cse/web-dev/duckett/vol2/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/web-dev/index.html",
+    "href": "cse/web-dev/index.html",
+    "title": "Web Programming & Dev",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Web Programming"
+    ]
   },
   {
     "objectID": "cse/oop-soft-eng-arc/index.html",
     "href": "cse/oop-soft-eng-arc/index.html",
     "title": "Software Engineering, OOP, UML & Design Patterns",
     "section": "",
-    "text": "notes\n\n\n\n\n\nObject-Oriented Analysis & Design - Understanding System Development with UML 2.0. Mike O’Docherty\nObject-Oriented Design with UML and Java. K. Barclay, J. Savage.\nUML for Java Programmers. Robert Cecil Martin. (a: 4.5)\nHow to Design Classes - Data Structure and Organization. Matthias Felleisen, et. al. \nDesigning Object-Oriented Software. Rebecca Wirfs-Brock\nObject-Oriented Analysis. Peter Coad, Edward Yourdon.\nObject-Oriented Design. Peter Coad\nObject-Oriented Programming. Peter Coad, Edward Yourdon.\nSoftware Design Using Java 2. Kevin Lano\nAdvanced Systems Design with Java, Uml and MDA. Kevin Lano\nAgile Mode-Based Development Using UML-RSDS. Kevin Lano\nIntroduction to Software Design with Java, 2nd ed. Martin P. Robillard\nApplying UML and Patterns - an Introduction to Object-Oriented Analysis and Design\nJava the UML way - integrating object-oriented design and programming. Else Lervik\nUsing UML - Software Engineering with Objects and Components. Stevens Perdita\nGuide to the unified process featuring UML, Java, and design patterns. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nFundamentals of Object-Oriented Design in UML. Page-Jones Meilir.\n\n\n\n\n\nThe Practical Guide to Structured Systems Design - Page-Jones Meilir.\nThe Essence of Program Design - Douglas Bell\nObject-Oriented Software Construction. Bertrand Meyer\nAn Introduction to Object-Oriented Programming. Timothy A. Budd\nHow to Write Good Programms - Stevens Perdita.\n\n\n\n\n\nDesign Patterns in Java. Steven John Metsker.\nDesign Patterns Explaiend - a new Perspective on Object-Oriented Design. Alan-Trott Shalloway.\nObject-Oriented Design and Paatterns - Cay S. Horstmann.\nDive Into Design Patterns - Alexander Shvets\n\n\n\n\n\nSpecification and Transformation of Programs - A Formal Approach to Softare Development. Helmut A. Partsch. (1990)\nFormal Software Development - From VDM to Java. Quentin Charatan, Aaron Kans.\nFormal Object-Oriented Development. Kevin Lano\nSoftware Abstractions. Logic, Language, and Analysis. Daniel Jackson\nFormal Specification and Design. L. M. G. Feijs.\nThe B-Language Method. Kevin Lano\nModellbildung in der Informatik - Manfred Broy.\nMathematical Approaches to Software Quality. Gerard O’Regan\nValidated Designs for Object-Oriented Systems - John Fitzgerald\nModelling Systems - Practical Tools and Techniques in Software Development. John Fitzgerald.\nSystematic Softare Development Using VDM. Cliff Jones\nProof in VDM - Case Studies. Cliff Jones.\nUsing Z. Jim Woodcock.\nFormal Specification and Documentation Using Z - A Case Study Approach. Jonathan Bowen\nModel-Based Software Testing and Analysis with C#. Jonathan Jacky\nAn Introduction to Discrete Mathematics and Formal System Specification. D. Ince.\nThe Way of Z - Practical Programming with Formal Methods. Jonathan Jacky.\nJava Software Development with Event-B. Nestor Catano Collazos\n\n\n\n\n\n\n\nGreat Ideas in Computer Science with Java. Alan W. Biermann\nClassic Computer Science Problems in Java. David Kopec\n\n\n\n\n\nBig Java. Cay S. Horstmann.\nJava the UML way - Integrating Object-oriented Design and Programming. Else Lervik\nJust Java 2. Peter van der Linden.\nAn Introduction to Object-Oriented Programming with Java. C. Thomas Wu\nBuilding Java Programs - A Back to Basics Approach. Stuart Reges\nIntroduction to Programming Using Java. David J. Eck.\nFundamentals of OOP and Data Structures in Java. Richard Wiener\nLearning Java with Games. Chong-wei Xu.\nJava and Object Orientation - An Introductin. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nModern Java in Action - Lambda, Streams, Functional and Reactive Programming. Roul-Grabriel Urma\nIntroduction to Software Design with Java. Martin P. Robillard.\nSoftware Design. Eric Braude\nSoftware Development Case Studies in Java\n\n\n\n\n\nLearn Object-Oriented Thinking & Programming. Rudolf Pecinovsky\nObjects First with Java - A Practical Introduction Usding Bluej. David Barnes\n\n\n\n\n\nJava Software Structures - Designing and Using Data Structures. Lewis-Joseph Chase\nData Structures and Abstractions with Java. Frank M. Carrano, Walter Savitch.\nData Structures in an Object-Oriented domain. Jean-Paul Tremblay.\nJava Collections - an Introduction to Abstract Data Types, Data Structures and Algorithms. David A. Watt.\nThink Data Structures. Allan B. Downey\n\n\n\n\n\nStart Concurrent - A Gentle Introduction to Concurrent Programming. Barry Wittman.\n\n\n\n\n\n\nArt and Science of Smalltalk - Simon Lewis\nSmalltalk and Object Orientation - An Introduction. John Hunt\nObjektorientiert Softwareentwicklung mit Smalltalk. Guenther Vinek.\nSmallTalk, Objects and Design. Chamond Liu\nProgramming Smalltalk - Object Oriantation from the Beginning, An Introduction to the principles of Programming. Johannes Brauer.",
+    "text": "notes\nnotes - oop specific\n\n\n\n\n\n\nObject-Oriented Analysis & Design - Understanding System Development with UML 2.0. Mike O’Docherty\nObject-Oriented Design with UML and Java. K. Barclay, J. Savage.\nUML for Java Programmers. Robert Cecil Martin. (a: 4.5)\nHow to Design Classes - Data Structure and Organization. Matthias Felleisen, et. al. \nDesigning Object-Oriented Software. Rebecca Wirfs-Brock\nObject-Oriented Analysis. Peter Coad, Edward Yourdon.\nObject-Oriented Design. Peter Coad\nObject-Oriented Programming. Peter Coad, Edward Yourdon.\nSoftware Design Using Java 2. Kevin Lano\nAdvanced Systems Design with Java, Uml and MDA. Kevin Lano\nAgile Mode-Based Development Using UML-RSDS. Kevin Lano\nIntroduction to Software Design with Java, 2nd ed. Martin P. Robillard\nApplying UML and Patterns - an Introduction to Object-Oriented Analysis and Design\nJava the UML way - integrating object-oriented design and programming. Else Lervik\nUsing UML - Software Engineering with Objects and Components. Stevens Perdita\nGuide to the unified process featuring UML, Java, and design patterns. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nFundamentals of Object-Oriented Design in UML. Page-Jones Meilir.\n\n\n\n\n\nThe Practical Guide to Structured Systems Design - Page-Jones Meilir.\nThe Essence of Program Design - Douglas Bell\nObject-Oriented Software Construction. Bertrand Meyer\nAn Introduction to Object-Oriented Programming. Timothy A. Budd\nHow to Write Good Programms - Stevens Perdita.\n\n\n\n\n\nDesign Patterns in Java. Steven John Metsker.\nDesign Patterns Explaiend - a new Perspective on Object-Oriented Design. Alan-Trott Shalloway.\nObject-Oriented Design and Paatterns - Cay S. Horstmann.\nDive Into Design Patterns - Alexander Shvets\n\n\n\n\n\nSpecification and Transformation of Programs - A Formal Approach to Softare Development. Helmut A. Partsch. (1990)\nFormal Software Development - From VDM to Java. Quentin Charatan, Aaron Kans.\nFormal Object-Oriented Development. Kevin Lano\nSoftware Abstractions. Logic, Language, and Analysis. Daniel Jackson\nFormal Specification and Design. L. M. G. Feijs.\nThe B-Language Method. Kevin Lano\nModellbildung in der Informatik - Manfred Broy.\nMathematical Approaches to Software Quality. Gerard O’Regan\nValidated Designs for Object-Oriented Systems - John Fitzgerald\nModelling Systems - Practical Tools and Techniques in Software Development. John Fitzgerald.\nSystematic Softare Development Using VDM. Cliff Jones\nProof in VDM - Case Studies. Cliff Jones.\nUsing Z. Jim Woodcock.\nFormal Specification and Documentation Using Z - A Case Study Approach. Jonathan Bowen\nModel-Based Software Testing and Analysis with C#. Jonathan Jacky\nAn Introduction to Discrete Mathematics and Formal System Specification. D. Ince.\nThe Way of Z - Practical Programming with Formal Methods. Jonathan Jacky.\nJava Software Development with Event-B. Nestor Catano Collazos\n\n\n\n\n\n\n\nGreat Ideas in Computer Science with Java. Alan W. Biermann\nClassic Computer Science Problems in Java. David Kopec\n\n\n\n\n\nBig Java. Cay S. Horstmann.\nJava the UML way - Integrating Object-oriented Design and Programming. Else Lervik\nJust Java 2. Peter van der Linden.\nAn Introduction to Object-Oriented Programming with Java. C. Thomas Wu\nBuilding Java Programs - A Back to Basics Approach. Stuart Reges\nIntroduction to Programming Using Java. David J. Eck.\nFundamentals of OOP and Data Structures in Java. Richard Wiener\nLearning Java with Games. Chong-wei Xu.\nJava and Object Orientation - An Introductin. John Hunt\nGuide to J2EE - Enterprise Java. John Hunt\nModern Java in Action - Lambda, Streams, Functional and Reactive Programming. Roul-Grabriel Urma\nIntroduction to Software Design with Java. Martin P. Robillard.\nSoftware Design. Eric Braude\nSoftware Development Case Studies in Java\n\n\n\n\n\nLearn Object-Oriented Thinking & Programming. Rudolf Pecinovsky\nObjects First with Java - A Practical Introduction Usding Bluej. David Barnes\n\n\n\n\n\nJava Software Structures - Designing and Using Data Structures. Lewis-Joseph Chase\nData Structures and Abstractions with Java. Frank M. Carrano, Walter Savitch.\nData Structures in an Object-Oriented domain. Jean-Paul Tremblay.\nJava Collections - an Introduction to Abstract Data Types, Data Structures and Algorithms. David A. Watt.\nThink Data Structures. Allan B. Downey\n\n\n\n\n\nStart Concurrent - A Gentle Introduction to Concurrent Programming. Barry Wittman.\n\n\n\n\n\n\nArt and Science of Smalltalk - Simon Lewis\nSmalltalk and Object Orientation - An Introduction. John Hunt\nObjektorientiert Softwareentwicklung mit Smalltalk. Guenther Vinek.\nSmallTalk, Objects and Design. Chamond Liu\nProgramming Smalltalk - Object Oriantation from the Beginning, An Introduction to the principles of Programming. Johannes Brauer.",
     "crumbs": [
       "SE & OOP"
     ]
@@ -146,15 +328,879 @@
     ]
   },
   {
-    "objectID": "cse/programming-languages/clojure/index.html",
-    "href": "cse/programming-languages/clojure/index.html",
+    "objectID": "cse/databases/index.html",
+    "href": "cse/databases/index.html",
+    "title": "Databases",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "System Programming",
+      "Databases"
+    ]
+  },
+  {
+    "objectID": "cse/data-sci-ml/index.html",
+    "href": "cse/data-sci-ml/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "cse/programming-languages/java/index.html",
-    "href": "cse/programming-languages/java/index.html",
+    "objectID": "cse/theoretical-cs/index.html",
+    "href": "cse/theoretical-cs/index.html",
+    "title": "Theoretical CS",
+    "section": "",
+    "text": "Automata and languages, computability, complexity\n\nnotes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Theoretical",
+      "Theoretical CS"
+    ]
+  },
+  {
+    "objectID": "cse/index.html",
+    "href": "cse/index.html",
+    "title": "Computer Science & Engineering",
+    "section": "",
+    "text": "software engineering, oop, design patterns, uml link\nvarious programming languages link\nfunctional programming link\n\n\n\n\n Back to top",
+    "crumbs": [
+      "CSE"
+    ]
+  },
+  {
+    "objectID": "cse/ads/c/bowman/ch03/index.html",
+    "href": "cse/ads/c/bowman/ch03/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/ads/c/bowman/index.html",
+    "href": "cse/ads/c/bowman/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/ads/index.html",
+    "href": "cse/ads/index.html",
+    "title": "ADS & Competitive Programming",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "ADS & Competitive Programming"
+    ]
+  },
+  {
+    "objectID": "life/card-tricks/index.html",
+    "href": "life/card-tricks/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/self-sufficiency/index.html",
+    "href": "life/self-sufficiency/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/home-maintenance-diy/index.html",
+    "href": "life/home-maintenance-diy/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/uni-management/index.html",
+    "href": "life/uni-management/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/pscyhologh-bct/index.html",
+    "href": "life/pscyhologh-bct/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/faith/index.html",
+    "href": "life/faith/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/index.html",
+    "href": "life/index.html",
+    "title": "Other",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Other"
+    ]
+  },
+  {
+    "objectID": "math/probability-stat/index.html",
+    "href": "math/probability-stat/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/cat-theory/index.html",
+    "href": "math/cat-theory/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/abstract-algebra/index.html",
+    "href": "math/abstract-algebra/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/crypto/index.html",
+    "href": "math/crypto/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/ana/index.html",
+    "href": "math/ana/index.html",
+    "title": "Analysis",
+    "section": "",
+    "text": "A Course in Mathematical Analysis. [David Brannan]"
+  },
+  {
+    "objectID": "math/ana/index.html#reading-list",
+    "href": "math/ana/index.html#reading-list",
+    "title": "Analysis",
+    "section": "",
+    "text": "A Course in Mathematical Analysis. [David Brannan]"
+  },
+  {
+    "objectID": "math/discrete/combinatorics/index.html",
+    "href": "math/discrete/combinatorics/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/discrete/index.html",
+    "href": "math/discrete/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/applied-math/index.html",
+    "href": "math/applied-math/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/multivar-calc-ana/index.html",
+    "href": "math/multivar-calc-ana/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/symmetry/index.html",
+    "href": "math/symmetry/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/problem-solving/index.html",
+    "href": "math/problem-solving/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/topology-metric/index.html",
+    "href": "math/topology-metric/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/political-though/index.html",
+    "href": "humanities/political-though/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/design/index.html",
+    "href": "humanities/design/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/music/index.html",
+    "href": "humanities/music/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/trivium/index.html",
+    "href": "humanities/trivium/index.html",
+    "title": "Trivium",
+    "section": "",
+    "text": "Trivium: Logic, grammar, rhetoric.\nSee also:"
+  },
+  {
+    "objectID": "humanities/trivium/index.html#reading-list",
+    "href": "humanities/trivium/index.html#reading-list",
+    "title": "Trivium",
+    "section": "Reading List",
+    "text": "Reading List\n\nGeneral\n\nTrivium. [Sister Miriam Joseph]\nThe Well-Educated Mind [Susan Wise Bauer]\nA Student’s Guide to Liberal Learning [James V. Schall]\nThe Lost Tools of Learning [Dorothy L. Sayers]\n\n\n\nPractical Logic & Critical Thinking\n\nIntroduction to Logic. [Irving Copi, Carl Cohen]\nPractical Logic - An Antidoe for Uncritical Thinking. [Douglas Soccia, Vincent Barry]\nPractical Logic. [Beardsley]\nConcise Introduction to Logic [Hurley]\nThinking Straight - Principles of Reasoning. [Monroe C. Beardsley]\nBeing Logical - A Guide to Good Thinking. [D. Q. McInerny]\nLearning to Think Things Through. [Gerald Nosich]\nThe Power of Logic. [Stephen Layman]\nThe Power of Logic. [Frances Howard Snyder, Daniel Howard-Snyder]\nThe Minto Pyramid. [Barbara Minto]\nInformal Logical Fallacies. [Jacob E. Van Vleet]\n\n\n\nArgument and Rhetoric\n\nWriting with Reason - Logic for Composition. [Monroe C. Beardsley]\nGood Reason for Writing - A Text with Readings. [Vincent Barry]\nUnderstanding Arguments. [Walter Sinnott-Armstrong]\nCritical Writing - A Guide to Writing a Paper Using the Concepts and Processes of Critical Thinking. [Gerald Nosich]\nSteps to Writing Well. [Jean Wyrick]\nCritical Thinking. [Richard B. Parker, Brooke Noel Moore]\nClassical Rhetoric for the Modern Student. [Edward P. J. Corbett]\nEveryday Arguments: A Guide to Writing and Reading Effective Arguments. [Katherine Mayberry]\n\n\n\nWriting\n\nHow to Write. [Alastair Fowler]\nWriting Well - The Esential Guide [Mark Tredinnick]\nElements of Style. [Strunk, White]\nStyle - Towards Clarity and Grace. [Joseph M. Williams]\nThe Good Grammar Guide. [Richard Palmer]\nLanguage in Literature - An Introduction to Stylistics. [Michael Toolan]\nWords Fail me - What Everyone who Writes Should Know About Writing. [Patricia O’Conner]\nSteering the Craft: Exercises and Discussions on Story Writing for the Lone Navigator or the Mutinous Crew. [Ursula Le Guin]\nThe Book on Writing - The Ultimate Guide. [Paula LaRocque]\nSin and Syntax - How to Write Wicked Good Prose. [Constance Hale]\nOxford Essential Guide to Writing\nThe Sense of Style - the Thinking Person’s Guide to Writing in the 21st Century!. [Steven Pinker]\nThe Rhetoric of Fiction. [Booth Wayne]\nThe Elements of Eloquence. [Mark Forsyth]\n\n\nScientific Writing & Presentation, Research\n\nWriting for Computer Science. [Justin Zobel]\nHow to Write Your First Thesis. [Justin Zobel]\nHow to Write a Better Thesis. [Evans, Gruba, Zobel]\nScientific Writing - A Reader and Writer’s Guide. [Jean-Luc Lebrun]\nThe Craft of Scientific Writing. [Michael Alley]\nA Manual for Writers of Research Papers, Theses, and Dissertations. [Kate L. Turabian]\n\n\n\n\nLiterature\n\nTheme and Form. [Beardsley]\nThis Thing Called Literature. [Andrew Bennett]\nLiterature Criticism and Theory. [Andrew Bennett]\nThe Cambridge Introduction to Narrative. [H. Porter Abbott]\nAn Introduction to Literature. [Sylvan Barnet]\nHow to Read Literature Like a Professor [Thomas C. Foster]"
+  },
+  {
+    "objectID": "humanities/semiotics/index.html",
+    "href": "humanities/semiotics/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/poetry/index.html",
+    "href": "humanities/poetry/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/sociology/index.html",
+    "href": "humanities/sociology/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/illustration/index.html",
+    "href": "humanities/illustration/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/film-theory/index.html",
+    "href": "humanities/film-theory/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/transhumanism/index.html",
+    "href": "humanities/transhumanism/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/dance/index.html",
+    "href": "humanities/dance/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/index.html",
+    "href": "humanities/index.html",
+    "title": "Humanities",
+    "section": "",
+    "text": "trivium\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Humanities"
+    ]
+  },
+  {
+    "objectID": "life-sci/neuroscience/index.html",
+    "href": "life-sci/neuroscience/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life-sci/biochemistry/index.html",
+    "href": "life-sci/biochemistry/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life-sci/index.html",
+    "href": "life-sci/index.html",
+    "title": "Life Sciences",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "finance-econ/microecon/index.html",
+    "href": "finance-econ/microecon/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "hey\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "finance-econ/quantitative-fin/index.html",
+    "href": "finance-econ/quantitative-fin/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NB",
+    "section": "",
+    "text": "math\ncs\nnatural sciences\nfinance and economics\nhumanities\nother\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "finance-econ/index.html",
+    "href": "finance-econ/index.html",
+    "title": "Finance & Economics",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Finance & Economics"
+    ]
+  },
+  {
+    "objectID": "finance-econ/macroecon/index.html",
+    "href": "finance-econ/macroecon/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "finance-econ/personal/index.html",
+    "href": "finance-econ/personal/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life-sci/anatomy/index.html",
+    "href": "life-sci/anatomy/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life-sci/immunology/index.html",
+    "href": "life-sci/immunology/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life-sci/physiology/index.html",
+    "href": "life-sci/physiology/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/german/index.html",
+    "href": "humanities/german/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/theatre/index.html",
+    "href": "humanities/theatre/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/philosophy/index.html",
+    "href": "humanities/philosophy/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/practical-logic/index.html",
+    "href": "humanities/practical-logic/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/animation/index.html",
+    "href": "humanities/animation/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/art-history/index.html",
+    "href": "humanities/art-history/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/latin-greek/index.html",
+    "href": "humanities/latin-greek/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/color-theory/index.html",
+    "href": "humanities/color-theory/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/fashion/index.html",
+    "href": "humanities/fashion/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/western-civ/index.html",
+    "href": "humanities/western-civ/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/cybernetics/index.html",
+    "href": "humanities/cybernetics/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/func-ana/index.html",
+    "href": "math/func-ana/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/index.html",
+    "href": "math/index.html",
+    "title": "Math",
+    "section": "",
+    "text": "notes",
+    "crumbs": [
+      "Math"
+    ]
+  },
+  {
+    "objectID": "math/index.html#foundations",
+    "href": "math/index.html#foundations",
+    "title": "Math",
+    "section": "Foundations",
+    "text": "Foundations\n\nproblem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic",
+    "crumbs": [
+      "Math"
+    ]
+  },
+  {
+    "objectID": "math/index.html#applied-mathematics",
+    "href": "math/index.html#applied-mathematics",
+    "title": "Math",
+    "section": "Applied Mathematics",
+    "text": "Applied Mathematics\n\nprobability & statistics\nnumerical mathematics\ndynamical systems\nfractals\ngeneral applied mathematics",
+    "crumbs": [
+      "Math"
+    ]
+  },
+  {
+    "objectID": "math/index.html#higher-mathematics",
+    "href": "math/index.html#higher-mathematics",
+    "title": "Math",
+    "section": "Higher Mathematics",
+    "text": "Higher Mathematics\n\nfunctional analysis\nmeasure theory\ntopology\nmetric spaces\ndifferential geometry",
+    "crumbs": [
+      "Math"
+    ]
+  },
+  {
+    "objectID": "math/la/index.html",
+    "href": "math/la/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/logic/index.html",
+    "href": "math/logic/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/dynamical-systems/index.html",
+    "href": "math/dynamical-systems/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/numerics/index.html",
+    "href": "math/numerics/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/discrete/graph-theory/index.html",
+    "href": "math/discrete/graph-theory/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/geometry/index.html",
+    "href": "math/geometry/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/number-theory/index.html",
+    "href": "math/number-theory/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/group/index.html",
+    "href": "math/group/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/diff-geo/index.html",
+    "href": "math/diff-geo/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/soft-math/index.html",
+    "href": "math/soft-math/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/fractals/index.html",
+    "href": "math/fractals/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/woodworking/index.html",
+    "href": "life/woodworking/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/parenting/index.html",
+    "href": "life/parenting/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/cooking/index.html",
+    "href": "life/cooking/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/fitness/index.html",
+    "href": "life/fitness/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/productivity/index.html",
+    "href": "life/productivity/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/origami/index.html",
+    "href": "life/origami/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/home-management/index.html",
+    "href": "life/home-management/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/ads/c/index.html",
+    "href": "cse/ads/c/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/ads/c/bowman/ch02/index.html",
+    "href": "cse/ads/c/bowman/ch02/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/ads/c/bowman/ch01/index.html",
+    "href": "cse/ads/c/bowman/ch01/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/computer-graphics/index.html",
+    "href": "cse/computer-graphics/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/os/index.html",
+    "href": "cse/os/index.html",
+    "title": "Operating Systems",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "System Programming",
+      "Operating Systems"
+    ]
+  },
+  {
+    "objectID": "cse/game-and-physics-eng/index.html",
+    "href": "cse/game-and-physics-eng/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/unix/index.html",
+    "href": "cse/unix/index.html",
+    "title": "Linux",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Linux"
+    ]
+  },
+  {
+    "objectID": "cse/computer-org-digital-logic/index.html",
+    "href": "cse/computer-org-digital-logic/index.html",
+    "title": "Digital Logic & Computer Hardware",
+    "section": "",
+    "text": "Assembly programming too\n\nnotes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "System Programming",
+      "Digital Logic & Computer Hardware"
+    ]
+  },
+  {
+    "objectID": "cse/web-dev/duckett/index.html",
+    "href": "cse/web-dev/duckett/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/web-dev/duckett/vol1/index.html",
+    "href": "cse/web-dev/duckett/vol1/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/web-dev/duckett/vol1/ch03/index.html",
+    "href": "cse/web-dev/duckett/vol1/ch03/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/programming/index.html",
+    "href": "cse/programming/index.html",
+    "title": "Programming",
+    "section": "",
+    "text": "Programming 0, Programming I, Programming II.\n\nnotes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Programming"
+    ]
+  },
+  {
+    "objectID": "cse/programming/logo/harvey/index.html",
+    "href": "cse/programming/logo/harvey/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/programming/logo/harvey/vol1/ch02/index.html",
+    "href": "cse/programming/logo/harvey/vol1/ch02/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/functional-programming/haskell/index.html",
+    "href": "cse/functional-programming/haskell/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/functional-programming/haskell/fokker/ch01/index.html",
+    "href": "cse/functional-programming/haskell/fokker/ch01/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/functional-programming/ocaml/index.html",
+    "href": "cse/functional-programming/ocaml/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/networks/index.html",
+    "href": "cse/networks/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/gen-cs/index.html",
+    "href": "cse/gen-cs/index.html",
+    "title": "General CS",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "General CS"
+    ]
+  },
+  {
+    "objectID": "cse/sci-math-computing/R/index.html",
+    "href": "cse/sci-math-computing/R/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/sci-math-computing/scipy-numpy/index.html",
+    "href": "cse/sci-math-computing/scipy-numpy/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/sci-math-computing/julia/index.html",
+    "href": "cse/sci-math-computing/julia/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/sci-math-computing/matlab/attaway/index.html",
+    "href": "cse/sci-math-computing/matlab/attaway/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/sci-math-computing/matlab/gander/ch02/index.html",
+    "href": "cse/sci-math-computing/matlab/gander/ch02/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/sci-math-computing/matlab/gander/ch01/index.html",
+    "href": "cse/sci-math-computing/matlab/gander/ch01/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/sci-math-computing/matlab/rovenski/ch01/index.html",
+    "href": "cse/sci-math-computing/matlab/rovenski/ch01/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/latex-ps/index.html",
+    "href": "cse/latex-ps/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/windows/index.html",
+    "href": "cse/windows/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/programming-languages/prolog/index.html",
+    "href": "cse/programming-languages/prolog/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/programming-languages/scala/index.html",
+    "href": "cse/programming-languages/scala/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/programming-languages/pascal/index.html",
+    "href": "cse/programming-languages/pascal/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/programming-languages/lua/index.html",
+    "href": "cse/programming-languages/lua/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
@@ -189,534 +1235,19 @@
     ]
   },
   {
-    "objectID": "cse/programming-languages/ruby/index.html",
-    "href": "cse/programming-languages/ruby/index.html",
-    "title": "NB",
+    "objectID": "cse/programming-from-spec/index.html",
+    "href": "cse/programming-from-spec/index.html",
+    "title": "Programming from Specifications",
     "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming-languages/cpp/index.html",
-    "href": "cse/programming-languages/cpp/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/ads/c/bowman/ch02/index.html",
-    "href": "cse/ads/c/bowman/ch02/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/ads/c/bowman/ch03/index.html",
-    "href": "cse/ads/c/bowman/ch03/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/ads/c/index.html",
-    "href": "cse/ads/c/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/functional-programming/ocaml/index.html",
-    "href": "cse/functional-programming/ocaml/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/functional-programming/haskell/fokker/ch01/index.html",
-    "href": "cse/functional-programming/haskell/fokker/ch01/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/functional-programming/haskell/index.html",
-    "href": "cse/functional-programming/haskell/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming/logo/harvey/vol1/ch02/index.html",
-    "href": "cse/programming/logo/harvey/vol1/ch02/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming/logo/harvey/vol1/index.html",
-    "href": "cse/programming/logo/harvey/vol1/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming/logo/index.html",
-    "href": "cse/programming/logo/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/index.html",
-    "href": "cse/index.html",
-    "title": "Computer Science & Engineering",
-    "section": "",
-    "text": "software engineering, oop, design patterns, uml link\nvarious programming languages link\nfunctional programming link\n\n\n\n\n Back to top",
+    "text": "Formal methods and programming from specifications.\n\nnotes\n\n\n\n\n Back to top",
     "crumbs": [
-      "CSE"
+      "Theoretical",
+      "Programming from Specifications"
     ]
-  },
-  {
-    "objectID": "math/topology-metric/index.html",
-    "href": "math/topology-metric/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/soft-math/index.html",
-    "href": "math/soft-math/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/number-theory/index.html",
-    "href": "math/number-theory/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/logic/index.html",
-    "href": "math/logic/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/cat-theory/index.html",
-    "href": "math/cat-theory/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/abstract-algebra/index.html",
-    "href": "math/abstract-algebra/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/discrete/combinatorics/index.html",
-    "href": "math/discrete/combinatorics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/discrete/index.html",
-    "href": "math/discrete/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/multivar-calc-ana/index.html",
-    "href": "math/multivar-calc-ana/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/crypto/index.html",
-    "href": "math/crypto/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/numerics/index.html",
-    "href": "math/numerics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/diff-geo/index.html",
-    "href": "math/diff-geo/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life-sci/biochemistry/index.html",
-    "href": "life-sci/biochemistry/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life-sci/immunology/index.html",
-    "href": "life-sci/immunology/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life-sci/index.html",
-    "href": "life-sci/index.html",
-    "title": "Life Sciences",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "finance-econ/personal/index.html",
-    "href": "finance-econ/personal/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "finance-econ/quantitative-fin/index.html",
-    "href": "finance-econ/quantitative-fin/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "finance-econ/index.html",
-    "href": "finance-econ/index.html",
-    "title": "Finance & Economics",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Finance & Economics"
-    ]
-  },
-  {
-    "objectID": "life/self-sufficiency/index.html",
-    "href": "life/self-sufficiency/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/faith/index.html",
-    "href": "life/faith/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/fitness/index.html",
-    "href": "life/fitness/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/woodworking/index.html",
-    "href": "life/woodworking/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/home-maintenance-diy/index.html",
-    "href": "life/home-maintenance-diy/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/parenting/index.html",
-    "href": "life/parenting/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/index.html",
-    "href": "life/index.html",
-    "title": "Other",
-    "section": "",
-    "text": "notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Other"
-    ]
-  },
-  {
-    "objectID": "nat-sci/electrical-eng/basic-electrodynamics/index.html",
-    "href": "nat-sci/electrical-eng/basic-electrodynamics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/electrical-eng/microcontrollers/index.html",
-    "href": "nat-sci/electrical-eng/microcontrollers/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/mechanical-eng/dynamics/index.html",
-    "href": "nat-sci/mechanical-eng/dynamics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/mechanical-eng/statics/index.html",
-    "href": "nat-sci/mechanical-eng/statics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/mechanical-eng/mechanics/index.html",
-    "href": "nat-sci/mechanical-eng/mechanics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/mechanical-eng/index.html",
-    "href": "nat-sci/mechanical-eng/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/physics/classical-mechanics/index.html",
-    "href": "nat-sci/physics/classical-mechanics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/physics/thermodynamics/index.html",
-    "href": "nat-sci/physics/thermodynamics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/index.html",
-    "href": "nat-sci/index.html",
-    "title": "Natural Sciences",
-    "section": "",
-    "text": "Physical Sciences\n\n\nLife Sciences\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Natural Sciences"
-    ]
-  },
-  {
-    "objectID": "humanities/german/index.html",
-    "href": "humanities/german/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/illustration/index.html",
-    "href": "humanities/illustration/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/poetry/index.html",
-    "href": "humanities/poetry/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/theatre/index.html",
-    "href": "humanities/theatre/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/film-theory/index.html",
-    "href": "humanities/film-theory/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/animation/index.html",
-    "href": "humanities/animation/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/music/index.html",
-    "href": "humanities/music/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/design/index.html",
-    "href": "humanities/design/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/trivium/index.html",
-    "href": "humanities/trivium/index.html",
-    "title": "Trivium",
-    "section": "",
-    "text": "Trivium: Logic, grammar, rhetoric.\nSee also:"
-  },
-  {
-    "objectID": "humanities/trivium/index.html#reading-list",
-    "href": "humanities/trivium/index.html#reading-list",
-    "title": "Trivium",
-    "section": "Reading List",
-    "text": "Reading List\n\nGeneral\n\nTrivium. [Sister Miriam Joseph]\nThe Well-Educated Mind [Susan Wise Bauer]\nA Student’s Guide to Liberal Learning [James V. Schall]\nThe Lost Tools of Learning [Dorothy L. Sayers]\n\n\n\nPractical Logic & Critical Thinking\n\nIntroduction to Logic. [Irving Copi, Carl Cohen]\nPractical Logic - An Antidoe for Uncritical Thinking. [Douglas Soccia, Vincent Barry]\nPractical Logic. [Beardsley]\nConcise Introduction to Logic [Hurley]\nThinking Straight - Principles of Reasoning. [Monroe C. Beardsley]\nBeing Logical - A Guide to Good Thinking. [D. Q. McInerny]\nLearning to Think Things Through. [Gerald Nosich]\nThe Power of Logic. [Stephen Layman]\nThe Power of Logic. [Frances Howard Snyder, Daniel Howard-Snyder]\nThe Minto Pyramid. [Barbara Minto]\nInformal Logical Fallacies. [Jacob E. Van Vleet]\n\n\n\nArgument and Rhetoric\n\nWriting with Reason - Logic for Composition. [Monroe C. Beardsley]\nGood Reason for Writing - A Text with Readings. [Vincent Barry]\nUnderstanding Arguments. [Walter Sinnott-Armstrong]\nCritical Writing - A Guide to Writing a Paper Using the Concepts and Processes of Critical Thinking. [Gerald Nosich]\nSteps to Writing Well. [Jean Wyrick]\nCritical Thinking. [Richard B. Parker, Brooke Noel Moore]\nClassical Rhetoric for the Modern Student. [Edward P. J. Corbett]\nEveryday Arguments: A Guide to Writing and Reading Effective Arguments. [Katherine Mayberry]\n\n\n\nWriting\n\nHow to Write. [Alastair Fowler]\nWriting Well - The Esential Guide [Mark Tredinnick]\nElements of Style. [Strunk, White]\nStyle - Towards Clarity and Grace. [Joseph M. Williams]\nThe Good Grammar Guide. [Richard Palmer]\nLanguage in Literature - An Introduction to Stylistics. [Michael Toolan]\nWords Fail me - What Everyone who Writes Should Know About Writing. [Patricia O’Conner]\nSteering the Craft: Exercises and Discussions on Story Writing for the Lone Navigator or the Mutinous Crew. [Ursula Le Guin]\nThe Book on Writing - The Ultimate Guide. [Paula LaRocque]\nSin and Syntax - How to Write Wicked Good Prose. [Constance Hale]\nOxford Essential Guide to Writing\nThe Sense of Style - the Thinking Person’s Guide to Writing in the 21st Century!. [Steven Pinker]\nThe Rhetoric of Fiction. [Booth Wayne]\nThe Elements of Eloquence. [Mark Forsyth]\n\n\nScientific Writing & Presentation, Research\n\nWriting for Computer Science. [Justin Zobel]\nHow to Write Your First Thesis. [Justin Zobel]\nHow to Write a Better Thesis. [Evans, Gruba, Zobel]\nScientific Writing - A Reader and Writer’s Guide. [Jean-Luc Lebrun]\nThe Craft of Scientific Writing. [Michael Alley]\nA Manual for Writers of Research Papers, Theses, and Dissertations. [Kate L. Turabian]\n\n\n\n\nLiterature\n\nTheme and Form. [Beardsley]\nThis Thing Called Literature. [Andrew Bennett]\nLiterature Criticism and Theory. [Andrew Bennett]\nThe Cambridge Introduction to Narrative. [H. Porter Abbott]\nAn Introduction to Literature. [Sylvan Barnet]\nHow to Read Literature Like a Professor [Thomas C. Foster]"
-  },
-  {
-    "objectID": "humanities/transhumanism/index.html",
-    "href": "humanities/transhumanism/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/index.html",
-    "href": "humanities/index.html",
-    "title": "Humanities",
-    "section": "",
-    "text": "trivium\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Humanities"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NB",
-    "section": "",
-    "text": "math\ncs\nnatural sciences\nfinance and economics\nhumanities\nother\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "NB - My Own KNowledge Base\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "humanities/philosophy/index.html",
-    "href": "humanities/philosophy/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/western-civ/index.html",
-    "href": "humanities/western-civ/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/semiotics/index.html",
-    "href": "humanities/semiotics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/sociology/index.html",
-    "href": "humanities/sociology/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/latin-greek/index.html",
-    "href": "humanities/latin-greek/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/practical-logic/index.html",
-    "href": "humanities/practical-logic/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/political-though/index.html",
-    "href": "humanities/political-though/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/color-theory/index.html",
-    "href": "humanities/color-theory/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/cybernetics/index.html",
-    "href": "humanities/cybernetics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/dance/index.html",
-    "href": "humanities/dance/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/art-history/index.html",
-    "href": "humanities/art-history/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/fashion/index.html",
-    "href": "humanities/fashion/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
   },
   {
     "objectID": "nat-sci/physics/index.html",
     "href": "nat-sci/physics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/physics/theoretical-mechanics/index.html",
-    "href": "nat-sci/physics/theoretical-mechanics/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
@@ -729,29 +1260,8 @@
     "text": "Back to top"
   },
   {
-    "objectID": "nat-sci/mechanical-eng/cars/index.html",
-    "href": "nat-sci/mechanical-eng/cars/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/mechanical-eng/how-things-work/index.html",
-    "href": "nat-sci/mechanical-eng/how-things-work/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/mechanical-eng/kinematics-linkages-mechanisms/index.html",
-    "href": "nat-sci/mechanical-eng/kinematics-linkages-mechanisms/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "nat-sci/electrical-eng/index.html",
-    "href": "nat-sci/electrical-eng/index.html",
+    "objectID": "nat-sci/physics/thermodynamics/index.html",
+    "href": "nat-sci/physics/thermodynamics/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
@@ -764,487 +1274,36 @@
     "text": "Back to top"
   },
   {
-    "objectID": "nat-sci/electrical-eng/networks/index.html",
-    "href": "nat-sci/electrical-eng/networks/index.html",
+    "objectID": "nat-sci/electrical-eng/basic-electrodynamics/index.html",
+    "href": "nat-sci/electrical-eng/basic-electrodynamics/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/pscyhologh-bct/index.html",
-    "href": "life/pscyhologh-bct/index.html",
+    "objectID": "nat-sci/mechanical-eng/kinematics-linkages-mechanisms/index.html",
+    "href": "nat-sci/mechanical-eng/kinematics-linkages-mechanisms/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/productivity/index.html",
-    "href": "life/productivity/index.html",
+    "objectID": "nat-sci/mechanical-eng/how-things-work/index.html",
+    "href": "nat-sci/mechanical-eng/how-things-work/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/origami/index.html",
-    "href": "life/origami/index.html",
+    "objectID": "nat-sci/mechanical-eng/cars/index.html",
+    "href": "nat-sci/mechanical-eng/cars/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/cooking/index.html",
-    "href": "life/cooking/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/uni-management/index.html",
-    "href": "life/uni-management/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/card-tricks/index.html",
-    "href": "life/card-tricks/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/home-management/index.html",
-    "href": "life/home-management/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "finance-econ/macroecon/index.html",
-    "href": "finance-econ/macroecon/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "finance-econ/microecon/index.html",
-    "href": "finance-econ/microecon/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "hey\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "life-sci/neuroscience/index.html",
-    "href": "life-sci/neuroscience/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life-sci/anatomy/index.html",
-    "href": "life-sci/anatomy/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life-sci/physiology/index.html",
-    "href": "life-sci/physiology/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/index.html",
-    "href": "math/index.html",
-    "title": "Math",
-    "section": "",
-    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic",
-    "crumbs": [
-      "Math"
-    ]
-  },
-  {
-    "objectID": "math/index.html#foundations",
-    "href": "math/index.html#foundations",
-    "title": "Math",
-    "section": "",
-    "text": "problem solving\nsymmetry\ngeneral math\nlinear algebra\nanalysis\ndiscrete mathematics\n\ncombinatorics\ngraph theory\nnumber theory\ncryptography & cryptology\n\nbasic abstract algebra\nlogic",
-    "crumbs": [
-      "Math"
-    ]
-  },
-  {
-    "objectID": "math/index.html#applied-mathematics",
-    "href": "math/index.html#applied-mathematics",
-    "title": "Math",
-    "section": "Applied Mathematics",
-    "text": "Applied Mathematics\n\nprobability & statistics\nnumerical mathematics\ndynamical systems\nfractals\ngeneral applied mathematics",
-    "crumbs": [
-      "Math"
-    ]
-  },
-  {
-    "objectID": "math/index.html#higher-mathematics",
-    "href": "math/index.html#higher-mathematics",
-    "title": "Math",
-    "section": "Higher Mathematics",
-    "text": "Higher Mathematics\n\nfunctional analysis\nmeasure theory\ntopology\nmetric spaces\ndifferential geometry",
-    "crumbs": [
-      "Math"
-    ]
-  },
-  {
-    "objectID": "math/ana/index.html",
-    "href": "math/ana/index.html",
-    "title": "Analysis",
-    "section": "",
-    "text": "A Course in Mathematical Analysis. [David Brannan]"
-  },
-  {
-    "objectID": "math/ana/index.html#reading-list",
-    "href": "math/ana/index.html#reading-list",
-    "title": "Analysis",
-    "section": "",
-    "text": "A Course in Mathematical Analysis. [David Brannan]"
-  },
-  {
-    "objectID": "math/dynamical-systems/index.html",
-    "href": "math/dynamical-systems/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/symmetry/index.html",
-    "href": "math/symmetry/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/geometry/index.html",
-    "href": "math/geometry/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/discrete/graph-theory/index.html",
-    "href": "math/discrete/graph-theory/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/applied-math/index.html",
-    "href": "math/applied-math/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/la/index.html",
-    "href": "math/la/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/probability-stat/index.html",
-    "href": "math/probability-stat/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/group/index.html",
-    "href": "math/group/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/func-ana/index.html",
-    "href": "math/func-ana/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/fractals/index.html",
-    "href": "math/fractals/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/problem-solving/index.html",
-    "href": "math/problem-solving/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming/index.html",
-    "href": "cse/programming/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming/logo/harvey/index.html",
-    "href": "cse/programming/logo/harvey/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming/logo/harvey/vol1/ch01/index.html",
-    "href": "cse/programming/logo/harvey/vol1/ch01/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/functional-programming/index.html",
-    "href": "cse/functional-programming/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "notes link",
-    "crumbs": [
-      "Functional Programming"
-    ]
-  },
-  {
-    "objectID": "cse/functional-programming/index.html#functional-programming",
-    "href": "cse/functional-programming/index.html#functional-programming",
-    "title": "NB",
-    "section": "",
-    "text": "notes link",
-    "crumbs": [
-      "Functional Programming"
-    ]
-  },
-  {
-    "objectID": "cse/functional-programming/haskell/fokker/index.html",
-    "href": "cse/functional-programming/haskell/fokker/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/functional-programming/scheme/index.html",
-    "href": "cse/functional-programming/scheme/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/ads/index.html",
-    "href": "cse/ads/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/ads/c/bowman/index.html",
-    "href": "cse/ads/c/bowman/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/ads/c/bowman/ch01/index.html",
-    "href": "cse/ads/c/bowman/ch01/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming-languages/index.html",
-    "href": "cse/programming-languages/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "python",
-    "crumbs": [
-      "Various Languages"
-    ]
-  },
-  {
-    "objectID": "cse/programming-languages/index.html#various-programming-languages",
-    "href": "cse/programming-languages/index.html#various-programming-languages",
-    "title": "NB",
-    "section": "",
-    "text": "python",
-    "crumbs": [
-      "Various Languages"
-    ]
-  },
-  {
-    "objectID": "cse/programming-languages/erlang/index.html",
-    "href": "cse/programming-languages/erlang/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming-languages/lua/index.html",
-    "href": "cse/programming-languages/lua/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming-languages/prolog/index.html",
-    "href": "cse/programming-languages/prolog/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming-languages/pascal/index.html",
-    "href": "cse/programming-languages/pascal/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/programming-languages/scala/index.html",
-    "href": "cse/programming-languages/scala/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/windows/index.html",
-    "href": "cse/windows/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/data-sci-ml/index.html",
-    "href": "cse/data-sci-ml/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/databases/index.html",
-    "href": "cse/databases/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/computer-org-digital-logic/index.html",
-    "href": "cse/computer-org-digital-logic/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/os/index.html",
-    "href": "cse/os/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/sci-math-computing/sage/index.html",
-    "href": "cse/sci-math-computing/sage/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/sci-math-computing/gnuplot/index.html",
-    "href": "cse/sci-math-computing/gnuplot/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/sci-math-computing/matlab/index.html",
-    "href": "cse/sci-math-computing/matlab/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/sci-math-computing/matlab/gander/ch03/index.html",
-    "href": "cse/sci-math-computing/matlab/gander/ch03/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/sci-math-computing/matlab/gander/ch02/index.html",
-    "href": "cse/sci-math-computing/matlab/gander/ch02/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/sci-math-computing/matlab/rovenski/index.html",
-    "href": "cse/sci-math-computing/matlab/rovenski/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/sci-math-computing/julia/index.html",
-    "href": "cse/sci-math-computing/julia/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/compilers/index.html",
-    "href": "cse/compilers/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/game-and-physics-eng/index.html",
-    "href": "cse/game-and-physics-eng/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/web-dev/duckett/index.html",
-    "href": "cse/web-dev/duckett/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/web-dev/duckett/vol1/ch03/index.html",
-    "href": "cse/web-dev/duckett/vol1/ch03/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/web-dev/duckett/vol1/ch02/index.html",
-    "href": "cse/web-dev/duckett/vol1/ch02/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/networks/index.html",
-    "href": "cse/networks/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "cse/logic-programming/index.html",
-    "href": "cse/logic-programming/index.html",
+    "objectID": "nat-sci/mechanical-eng/statics/index.html",
+    "href": "nat-sci/mechanical-eng/statics/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
