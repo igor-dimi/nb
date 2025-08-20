@@ -1,0 +1,7 @@
+---
+title: "Programming from Specifications"
+---
+
+Formal methods and programming from specifications.
+
+* [notes](https://igor-dimi.github.io/programming-from-specifications-and-formal-methods-notes/)
