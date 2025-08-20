@@ -1,5 +1,5 @@
 ---
-title: "Operating Systems"
+title: "Operating Systems & Networks"
 ---
 
 * [notes](https://igor-dimi.github.io/os-notes/)

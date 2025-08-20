@@ -2,6 +2,35 @@
 title: Computer Science & Engineering
 ---
 
-  * software engineering, oop, design patterns, uml [link](./oop-soft-eng-arc)
-  * various programming languages [link](./programming-languages/index.qmd)
-  * functional programming [link](./functional-programming/index.qmd)
+
+## Intro
+
+* [general cs](./gen-cs/index.qmd)
+* [programming](./programming/index.qmd)
+* ads & competitive programming [link](ads/index.qmd)
+
+## Theoretical
+
+* [theoretical cs](./theoretical-cs/index.qmd)
+* [programming from sepc](./programming-from-spec/index.qmd)
+* [fp](./functional-programming/index.qmd)
+* [logic programming](./logic-programming/index.qmd) 
+* [plt](./plt/index.qmd)
+
+## Applied 
+
+* [linux](./unix/index.qmd)
+* [web programming](./web-dev/index.qmd)
+* [SE & OOP](./oop-soft-eng-arc/index.qmd)
+
+## Systems Programming 
+
+* [OS & Networks](./os/index.qmd)
+* [compilers](./compilers/index.qmd)
+* [databases](./databases/index.qmd)
+* digital logic & computer hardware [link](./computer-org-digital-logic/)
+
+## Other
+
+* scientific & symbolic computing [link](./sci-math-computing/index.qmd)
+* various programming languages [link](./programming-languages/index.qmd)
