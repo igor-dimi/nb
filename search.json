@@ -132,7 +132,7 @@
     "href": "cse/plt/index.html",
     "title": "PLT",
     "section": "",
-    "text": "notes\n\n\n\n\n Back to top",
+    "text": "notes\n\n\nLinks\n\nOleg Kiselyov link\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Theoretical",
       "PLT"
@@ -401,7 +401,7 @@
     "href": "cse/index.html#systems-programming",
     "title": "Computer Science & Engineering",
     "section": "Systems Programming",
-    "text": "Systems Programming\n\nOS & Networks\ncompilers\ndatabases\ndigital logic & computer hardware link",
+    "text": "Systems Programming\n\nOS & Networks\ncompilers\ndatabases\ndigital logic & computer hardware link\nsystems programming languages",
     "crumbs": [
       "CSE"
     ]
@@ -435,415 +435,143 @@
     "href": "cse/ads/index.html",
     "title": "ADS & Competitive Programming",
     "section": "",
-    "text": "notes\n\n\n\n\n Back to top",
+    "text": "notes",
     "crumbs": [
       "ADS & Competitive Programming"
     ]
   },
   {
-    "objectID": "life/card-tricks/index.html",
-    "href": "life/card-tricks/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/self-sufficiency/index.html",
-    "href": "life/self-sufficiency/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/home-maintenance-diy/index.html",
-    "href": "life/home-maintenance-diy/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/uni-management/index.html",
-    "href": "life/uni-management/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/pscyhologh-bct/index.html",
-    "href": "life/pscyhologh-bct/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/faith/index.html",
-    "href": "life/faith/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life/index.html",
-    "href": "life/index.html",
-    "title": "Other",
-    "section": "",
-    "text": "notes\n\n\n\n\n Back to top",
+    "objectID": "cse/ads/index.html#algorithms-data-structures-roadmap",
+    "href": "cse/ads/index.html#algorithms-data-structures-roadmap",
+    "title": "ADS & Competitive Programming",
+    "section": "Algorithms & Data Structures Roadmap",
+    "text": "Algorithms & Data Structures Roadmap\n\nPhase 1 – Foundations & Literacy\nGoal: Build conceptual clarity, basic fluency, and start problem-solving habit.\nCore readings:\n\nWirth – Algorithms + Data Structures = Programs (lean, clear conceptual start).\nBrassard & Bratley – Fundamentals of Algorithmics (systematic intro).\n\nPractice:\n\nDaily small problems: arrays, recursion, sorting basics (LeetCode Easy, Codeforces Div2 A/B).\nWork through examples/exercises in Wirth/Brassard.\n\nProjects:\n\nImplement a “mini standard library”: arrays, linked lists, stacks, queues.\nWrite and benchmark classic sorts (insertion, merge, quick).\n\nMilestone:\n\nComfortably analyze O(n), O(n log n), O(n²).\nCan hand-write correct pseudocode for sorting/searching.\n~Codeforces 1100–1200 (solid beginner).\n\n\n\n\nPhase 2 – Intermediate Mastery\nGoal: Internalize core data structures and standard algorithms.\nCore readings:\n\nJeff Erickson – Algorithms (modern, conceptual).\nEdmonds – How to Think About Algorithms (intuition/strategy).\n\nPractice:\n\nRegular problem-solving: dynamic programming, greedy, trees, hash tables.\nTarget Codeforces 1400–1600 (Div2 C-level consistency).\n\nProjects:\n\nImplement a balanced BST (AVL or Red-Black).\nGraph toolkit: BFS, DFS, Dijkstra, topological sort.\nExperiment with hash tables (chaining vs. open addressing).\n\nMilestone:\n\nComfortable with recurrence relations and master theorem.\nCan solve medium-level ADS problems under time pressure.\nWritten and tested your own graph library.\n\n\n\n\nPhase 3 – Advanced Techniques & Problem-Solving Edge\nGoal: Gain fluency in advanced data structures and competitive-level problem-solving.\nCore readings:\n\nEdmonds (finish).\nMehlhorn & Sanders – Algorithms and Data Structures: The Basic Toolbox.\nSupplements: Parberry (Problems on Algorithms), Sannemo (Principles of Algorithmic Problem Solving).\n\nPractice:\n\nSystematic Codeforces training, aiming 1700–1900 (Master).\nProblems: advanced DP, flows, segment trees, binary indexed trees, string algorithms.\n\nProjects:\n\nImplement segment tree & Fenwick tree, compare performance.\nSmall search engine (inverted index + ranking).\nVisualize Dijkstra and A* on grids.\n\nMilestone:\n\nCompetent with amortized analysis, randomized algorithms.\nCan solve harder graph/DP problems (CF Div2 D, occasional Div1 A).\nBuilt a personal ADS library for reuse.\n\n\n\n\nPhase 4 – Integration & Research Prep\nGoal: Position ADS knowledge to support PLT + ML/AI work.\nCore readings:\n\nConcrete Mathematics (Knuth et al.) → strengthen recurrences, counting.\nGraph supplements (Marcus, Gibbons) → deepen graph-specific algorithms.\n\nPractice:\n\nMix classical problems with application-driven ones (SAT solvers, SMT-style algorithms, ML optimization routines).\nContinue competitive practice to maintain edge.\n\nProjects:\n\nImplement SAT solver (DPLL) as bridge to formal methods.\nImplement SGD & Adam optimizers from scratch (bridge to ML).\nPrototype a small probabilistic data structure (Bloom filter, Count-Min Sketch).\n\nMilestone:\n\nReady to connect ADS mastery to PLT/Formal (verification algorithms) and ML/AI (optimization & data pipeline).\nComfortable switching between theory, problem-solving, and implementation.\n\n\n\n\nKey Notes\n\nStyle balance: ADS benefits most from problem-solving (Codeforces/LeetCode) — projects are supplementary but give systems context.\nBook usage: Wirth → Brassard/Bratley → Erickson → Edmonds (+ toolbox, Parberry/Sannemo as practice). The rest of your collection = optional references.\nFinal Target: Algorithmic literacy at the level of a CS graduate + problem-solving skills around Codeforces Master.",
     "crumbs": [
-      "Other"
+      "ADS & Competitive Programming"
     ]
   },
   {
-    "objectID": "math/probability-stat/index.html",
-    "href": "math/probability-stat/index.html",
+    "objectID": "life/home-management/index.html",
+    "href": "life/home-management/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/cat-theory/index.html",
-    "href": "math/cat-theory/index.html",
+    "objectID": "life/origami/index.html",
+    "href": "life/origami/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/abstract-algebra/index.html",
-    "href": "math/abstract-algebra/index.html",
+    "objectID": "life/productivity/index.html",
+    "href": "life/productivity/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/crypto/index.html",
-    "href": "math/crypto/index.html",
+    "objectID": "life/fitness/index.html",
+    "href": "life/fitness/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/ana/index.html",
-    "href": "math/ana/index.html",
-    "title": "Analysis",
-    "section": "",
-    "text": "A Course in Mathematical Analysis. [David Brannan]"
-  },
-  {
-    "objectID": "math/ana/index.html#reading-list",
-    "href": "math/ana/index.html#reading-list",
-    "title": "Analysis",
-    "section": "",
-    "text": "A Course in Mathematical Analysis. [David Brannan]"
-  },
-  {
-    "objectID": "math/discrete/combinatorics/index.html",
-    "href": "math/discrete/combinatorics/index.html",
+    "objectID": "life/cooking/index.html",
+    "href": "life/cooking/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/discrete/index.html",
-    "href": "math/discrete/index.html",
+    "objectID": "life/parenting/index.html",
+    "href": "life/parenting/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/applied-math/index.html",
-    "href": "math/applied-math/index.html",
+    "objectID": "life/woodworking/index.html",
+    "href": "life/woodworking/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/multivar-calc-ana/index.html",
-    "href": "math/multivar-calc-ana/index.html",
+    "objectID": "math/fractals/index.html",
+    "href": "math/fractals/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/symmetry/index.html",
-    "href": "math/symmetry/index.html",
+    "objectID": "math/soft-math/index.html",
+    "href": "math/soft-math/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/problem-solving/index.html",
-    "href": "math/problem-solving/index.html",
+    "objectID": "math/diff-geo/index.html",
+    "href": "math/diff-geo/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/topology-metric/index.html",
-    "href": "math/topology-metric/index.html",
+    "objectID": "math/group/index.html",
+    "href": "math/group/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "humanities/political-though/index.html",
-    "href": "humanities/political-though/index.html",
+    "objectID": "math/number-theory/index.html",
+    "href": "math/number-theory/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "humanities/design/index.html",
-    "href": "humanities/design/index.html",
+    "objectID": "math/geometry/index.html",
+    "href": "math/geometry/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "humanities/music/index.html",
-    "href": "humanities/music/index.html",
+    "objectID": "math/discrete/graph-theory/index.html",
+    "href": "math/discrete/graph-theory/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "humanities/trivium/index.html",
-    "href": "humanities/trivium/index.html",
-    "title": "Trivium",
-    "section": "",
-    "text": "Trivium: Logic, grammar, rhetoric.\nSee also:"
-  },
-  {
-    "objectID": "humanities/trivium/index.html#reading-list",
-    "href": "humanities/trivium/index.html#reading-list",
-    "title": "Trivium",
-    "section": "Reading List",
-    "text": "Reading List\n\nGeneral\n\nTrivium. [Sister Miriam Joseph]\nThe Well-Educated Mind [Susan Wise Bauer]\nA Student’s Guide to Liberal Learning [James V. Schall]\nThe Lost Tools of Learning [Dorothy L. Sayers]\n\n\n\nPractical Logic & Critical Thinking\n\nIntroduction to Logic. [Irving Copi, Carl Cohen]\nPractical Logic - An Antidoe for Uncritical Thinking. [Douglas Soccia, Vincent Barry]\nPractical Logic. [Beardsley]\nConcise Introduction to Logic [Hurley]\nThinking Straight - Principles of Reasoning. [Monroe C. Beardsley]\nBeing Logical - A Guide to Good Thinking. [D. Q. McInerny]\nLearning to Think Things Through. [Gerald Nosich]\nThe Power of Logic. [Stephen Layman]\nThe Power of Logic. [Frances Howard Snyder, Daniel Howard-Snyder]\nThe Minto Pyramid. [Barbara Minto]\nInformal Logical Fallacies. [Jacob E. Van Vleet]\n\n\n\nArgument and Rhetoric\n\nWriting with Reason - Logic for Composition. [Monroe C. Beardsley]\nGood Reason for Writing - A Text with Readings. [Vincent Barry]\nUnderstanding Arguments. [Walter Sinnott-Armstrong]\nCritical Writing - A Guide to Writing a Paper Using the Concepts and Processes of Critical Thinking. [Gerald Nosich]\nSteps to Writing Well. [Jean Wyrick]\nCritical Thinking. [Richard B. Parker, Brooke Noel Moore]\nClassical Rhetoric for the Modern Student. [Edward P. J. Corbett]\nEveryday Arguments: A Guide to Writing and Reading Effective Arguments. [Katherine Mayberry]\n\n\n\nWriting\n\nHow to Write. [Alastair Fowler]\nWriting Well - The Esential Guide [Mark Tredinnick]\nElements of Style. [Strunk, White]\nStyle - Towards Clarity and Grace. [Joseph M. Williams]\nThe Good Grammar Guide. [Richard Palmer]\nLanguage in Literature - An Introduction to Stylistics. [Michael Toolan]\nWords Fail me - What Everyone who Writes Should Know About Writing. [Patricia O’Conner]\nSteering the Craft: Exercises and Discussions on Story Writing for the Lone Navigator or the Mutinous Crew. [Ursula Le Guin]\nThe Book on Writing - The Ultimate Guide. [Paula LaRocque]\nSin and Syntax - How to Write Wicked Good Prose. [Constance Hale]\nOxford Essential Guide to Writing\nThe Sense of Style - the Thinking Person’s Guide to Writing in the 21st Century!. [Steven Pinker]\nThe Rhetoric of Fiction. [Booth Wayne]\nThe Elements of Eloquence. [Mark Forsyth]\n\n\nScientific Writing & Presentation, Research\n\nWriting for Computer Science. [Justin Zobel]\nHow to Write Your First Thesis. [Justin Zobel]\nHow to Write a Better Thesis. [Evans, Gruba, Zobel]\nScientific Writing - A Reader and Writer’s Guide. [Jean-Luc Lebrun]\nThe Craft of Scientific Writing. [Michael Alley]\nA Manual for Writers of Research Papers, Theses, and Dissertations. [Kate L. Turabian]\n\n\n\n\nLiterature\n\nTheme and Form. [Beardsley]\nThis Thing Called Literature. [Andrew Bennett]\nLiterature Criticism and Theory. [Andrew Bennett]\nThe Cambridge Introduction to Narrative. [H. Porter Abbott]\nAn Introduction to Literature. [Sylvan Barnet]\nHow to Read Literature Like a Professor [Thomas C. Foster]"
-  },
-  {
-    "objectID": "humanities/semiotics/index.html",
-    "href": "humanities/semiotics/index.html",
+    "objectID": "math/numerics/index.html",
+    "href": "math/numerics/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "humanities/poetry/index.html",
-    "href": "humanities/poetry/index.html",
+    "objectID": "math/dynamical-systems/index.html",
+    "href": "math/dynamical-systems/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "humanities/sociology/index.html",
-    "href": "humanities/sociology/index.html",
+    "objectID": "math/logic/index.html",
+    "href": "math/logic/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "humanities/illustration/index.html",
-    "href": "humanities/illustration/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/film-theory/index.html",
-    "href": "humanities/film-theory/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/transhumanism/index.html",
-    "href": "humanities/transhumanism/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/dance/index.html",
-    "href": "humanities/dance/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/index.html",
-    "href": "humanities/index.html",
-    "title": "Humanities",
-    "section": "",
-    "text": "trivium\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Humanities"
-    ]
-  },
-  {
-    "objectID": "life-sci/neuroscience/index.html",
-    "href": "life-sci/neuroscience/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life-sci/biochemistry/index.html",
-    "href": "life-sci/biochemistry/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life-sci/index.html",
-    "href": "life-sci/index.html",
-    "title": "Life Sciences",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "finance-econ/microecon/index.html",
-    "href": "finance-econ/microecon/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "hey\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "finance-econ/quantitative-fin/index.html",
-    "href": "finance-econ/quantitative-fin/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NB",
-    "section": "",
-    "text": "math\ncs\nnatural sciences\nfinance and economics\nhumanities\nother\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "finance-econ/index.html",
-    "href": "finance-econ/index.html",
-    "title": "Finance & Economics",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Finance & Economics"
-    ]
-  },
-  {
-    "objectID": "finance-econ/macroecon/index.html",
-    "href": "finance-econ/macroecon/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "finance-econ/personal/index.html",
-    "href": "finance-econ/personal/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life-sci/anatomy/index.html",
-    "href": "life-sci/anatomy/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life-sci/immunology/index.html",
-    "href": "life-sci/immunology/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "life-sci/physiology/index.html",
-    "href": "life-sci/physiology/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/german/index.html",
-    "href": "humanities/german/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/theatre/index.html",
-    "href": "humanities/theatre/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/philosophy/index.html",
-    "href": "humanities/philosophy/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/practical-logic/index.html",
-    "href": "humanities/practical-logic/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/animation/index.html",
-    "href": "humanities/animation/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/art-history/index.html",
-    "href": "humanities/art-history/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/latin-greek/index.html",
-    "href": "humanities/latin-greek/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/color-theory/index.html",
-    "href": "humanities/color-theory/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/fashion/index.html",
-    "href": "humanities/fashion/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/western-civ/index.html",
-    "href": "humanities/western-civ/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "humanities/cybernetics/index.html",
-    "href": "humanities/cybernetics/index.html",
-    "title": "NB",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "math/func-ana/index.html",
-    "href": "math/func-ana/index.html",
+    "objectID": "math/la/index.html",
+    "href": "math/la/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
@@ -889,130 +617,423 @@
     ]
   },
   {
-    "objectID": "math/la/index.html",
-    "href": "math/la/index.html",
+    "objectID": "math/func-ana/index.html",
+    "href": "math/func-ana/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/logic/index.html",
-    "href": "math/logic/index.html",
+    "objectID": "humanities/cybernetics/index.html",
+    "href": "humanities/cybernetics/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/dynamical-systems/index.html",
-    "href": "math/dynamical-systems/index.html",
+    "objectID": "humanities/western-civ/index.html",
+    "href": "humanities/western-civ/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/numerics/index.html",
-    "href": "math/numerics/index.html",
+    "objectID": "humanities/fashion/index.html",
+    "href": "humanities/fashion/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/discrete/graph-theory/index.html",
-    "href": "math/discrete/graph-theory/index.html",
+    "objectID": "humanities/color-theory/index.html",
+    "href": "humanities/color-theory/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/geometry/index.html",
-    "href": "math/geometry/index.html",
+    "objectID": "humanities/latin-greek/index.html",
+    "href": "humanities/latin-greek/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/number-theory/index.html",
-    "href": "math/number-theory/index.html",
+    "objectID": "humanities/art-history/index.html",
+    "href": "humanities/art-history/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/group/index.html",
-    "href": "math/group/index.html",
+    "objectID": "humanities/animation/index.html",
+    "href": "humanities/animation/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/diff-geo/index.html",
-    "href": "math/diff-geo/index.html",
+    "objectID": "humanities/practical-logic/index.html",
+    "href": "humanities/practical-logic/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/soft-math/index.html",
-    "href": "math/soft-math/index.html",
+    "objectID": "humanities/philosophy/index.html",
+    "href": "humanities/philosophy/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "math/fractals/index.html",
-    "href": "math/fractals/index.html",
+    "objectID": "humanities/theatre/index.html",
+    "href": "humanities/theatre/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/woodworking/index.html",
-    "href": "life/woodworking/index.html",
+    "objectID": "humanities/german/index.html",
+    "href": "humanities/german/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/parenting/index.html",
-    "href": "life/parenting/index.html",
+    "objectID": "life-sci/physiology/index.html",
+    "href": "life-sci/physiology/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/cooking/index.html",
-    "href": "life/cooking/index.html",
+    "objectID": "life-sci/immunology/index.html",
+    "href": "life-sci/immunology/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/fitness/index.html",
-    "href": "life/fitness/index.html",
+    "objectID": "life-sci/anatomy/index.html",
+    "href": "life-sci/anatomy/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/productivity/index.html",
-    "href": "life/productivity/index.html",
+    "objectID": "finance-econ/personal/index.html",
+    "href": "finance-econ/personal/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/origami/index.html",
-    "href": "life/origami/index.html",
+    "objectID": "finance-econ/macroecon/index.html",
+    "href": "finance-econ/macroecon/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
   },
   {
-    "objectID": "life/home-management/index.html",
-    "href": "life/home-management/index.html",
+    "objectID": "finance-econ/index.html",
+    "href": "finance-econ/index.html",
+    "title": "Finance & Economics",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Finance & Economics"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NB",
+    "section": "",
+    "text": "math\ncs\nnatural sciences\nfinance and economics\nhumanities\nother\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "finance-econ/quantitative-fin/index.html",
+    "href": "finance-econ/quantitative-fin/index.html",
     "title": "NB",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "finance-econ/microecon/index.html",
+    "href": "finance-econ/microecon/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "hey\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "life-sci/index.html",
+    "href": "life-sci/index.html",
+    "title": "Life Sciences",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life-sci/biochemistry/index.html",
+    "href": "life-sci/biochemistry/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life-sci/neuroscience/index.html",
+    "href": "life-sci/neuroscience/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/index.html",
+    "href": "humanities/index.html",
+    "title": "Humanities",
+    "section": "",
+    "text": "trivium\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Humanities"
+    ]
+  },
+  {
+    "objectID": "humanities/dance/index.html",
+    "href": "humanities/dance/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/transhumanism/index.html",
+    "href": "humanities/transhumanism/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/film-theory/index.html",
+    "href": "humanities/film-theory/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/illustration/index.html",
+    "href": "humanities/illustration/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/sociology/index.html",
+    "href": "humanities/sociology/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/poetry/index.html",
+    "href": "humanities/poetry/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/semiotics/index.html",
+    "href": "humanities/semiotics/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/trivium/index.html",
+    "href": "humanities/trivium/index.html",
+    "title": "Trivium",
+    "section": "",
+    "text": "Trivium: Logic, grammar, rhetoric.\nSee also:"
+  },
+  {
+    "objectID": "humanities/trivium/index.html#reading-list",
+    "href": "humanities/trivium/index.html#reading-list",
+    "title": "Trivium",
+    "section": "Reading List",
+    "text": "Reading List\n\nGeneral\n\nTrivium. [Sister Miriam Joseph]\nThe Well-Educated Mind [Susan Wise Bauer]\nA Student’s Guide to Liberal Learning [James V. Schall]\nThe Lost Tools of Learning [Dorothy L. Sayers]\n\n\n\nPractical Logic & Critical Thinking\n\nIntroduction to Logic. [Irving Copi, Carl Cohen]\nPractical Logic - An Antidoe for Uncritical Thinking. [Douglas Soccia, Vincent Barry]\nPractical Logic. [Beardsley]\nConcise Introduction to Logic [Hurley]\nThinking Straight - Principles of Reasoning. [Monroe C. Beardsley]\nBeing Logical - A Guide to Good Thinking. [D. Q. McInerny]\nLearning to Think Things Through. [Gerald Nosich]\nThe Power of Logic. [Stephen Layman]\nThe Power of Logic. [Frances Howard Snyder, Daniel Howard-Snyder]\nThe Minto Pyramid. [Barbara Minto]\nInformal Logical Fallacies. [Jacob E. Van Vleet]\n\n\n\nArgument and Rhetoric\n\nWriting with Reason - Logic for Composition. [Monroe C. Beardsley]\nGood Reason for Writing - A Text with Readings. [Vincent Barry]\nUnderstanding Arguments. [Walter Sinnott-Armstrong]\nCritical Writing - A Guide to Writing a Paper Using the Concepts and Processes of Critical Thinking. [Gerald Nosich]\nSteps to Writing Well. [Jean Wyrick]\nCritical Thinking. [Richard B. Parker, Brooke Noel Moore]\nClassical Rhetoric for the Modern Student. [Edward P. J. Corbett]\nEveryday Arguments: A Guide to Writing and Reading Effective Arguments. [Katherine Mayberry]\n\n\n\nWriting\n\nHow to Write. [Alastair Fowler]\nWriting Well - The Esential Guide [Mark Tredinnick]\nElements of Style. [Strunk, White]\nStyle - Towards Clarity and Grace. [Joseph M. Williams]\nThe Good Grammar Guide. [Richard Palmer]\nLanguage in Literature - An Introduction to Stylistics. [Michael Toolan]\nWords Fail me - What Everyone who Writes Should Know About Writing. [Patricia O’Conner]\nSteering the Craft: Exercises and Discussions on Story Writing for the Lone Navigator or the Mutinous Crew. [Ursula Le Guin]\nThe Book on Writing - The Ultimate Guide. [Paula LaRocque]\nSin and Syntax - How to Write Wicked Good Prose. [Constance Hale]\nOxford Essential Guide to Writing\nThe Sense of Style - the Thinking Person’s Guide to Writing in the 21st Century!. [Steven Pinker]\nThe Rhetoric of Fiction. [Booth Wayne]\nThe Elements of Eloquence. [Mark Forsyth]\n\n\nScientific Writing & Presentation, Research\n\nWriting for Computer Science. [Justin Zobel]\nHow to Write Your First Thesis. [Justin Zobel]\nHow to Write a Better Thesis. [Evans, Gruba, Zobel]\nScientific Writing - A Reader and Writer’s Guide. [Jean-Luc Lebrun]\nThe Craft of Scientific Writing. [Michael Alley]\nA Manual for Writers of Research Papers, Theses, and Dissertations. [Kate L. Turabian]\n\n\n\n\nLiterature\n\nTheme and Form. [Beardsley]\nThis Thing Called Literature. [Andrew Bennett]\nLiterature Criticism and Theory. [Andrew Bennett]\nThe Cambridge Introduction to Narrative. [H. Porter Abbott]\nAn Introduction to Literature. [Sylvan Barnet]\nHow to Read Literature Like a Professor [Thomas C. Foster]"
+  },
+  {
+    "objectID": "humanities/music/index.html",
+    "href": "humanities/music/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/design/index.html",
+    "href": "humanities/design/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "humanities/political-though/index.html",
+    "href": "humanities/political-though/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/topology-metric/index.html",
+    "href": "math/topology-metric/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/problem-solving/index.html",
+    "href": "math/problem-solving/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/symmetry/index.html",
+    "href": "math/symmetry/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/multivar-calc-ana/index.html",
+    "href": "math/multivar-calc-ana/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/applied-math/index.html",
+    "href": "math/applied-math/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/discrete/index.html",
+    "href": "math/discrete/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/discrete/combinatorics/index.html",
+    "href": "math/discrete/combinatorics/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/ana/index.html",
+    "href": "math/ana/index.html",
+    "title": "Analysis",
+    "section": "",
+    "text": "A Course in Mathematical Analysis. [David Brannan]"
+  },
+  {
+    "objectID": "math/ana/index.html#reading-list",
+    "href": "math/ana/index.html#reading-list",
+    "title": "Analysis",
+    "section": "",
+    "text": "A Course in Mathematical Analysis. [David Brannan]"
+  },
+  {
+    "objectID": "math/crypto/index.html",
+    "href": "math/crypto/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/abstract-algebra/index.html",
+    "href": "math/abstract-algebra/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/cat-theory/index.html",
+    "href": "math/cat-theory/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "math/probability-stat/index.html",
+    "href": "math/probability-stat/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/index.html",
+    "href": "life/index.html",
+    "title": "Other",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Other"
+    ]
+  },
+  {
+    "objectID": "life/faith/index.html",
+    "href": "life/faith/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/pscyhologh-bct/index.html",
+    "href": "life/pscyhologh-bct/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/uni-management/index.html",
+    "href": "life/uni-management/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/home-maintenance-diy/index.html",
+    "href": "life/home-maintenance-diy/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/self-sufficiency/index.html",
+    "href": "life/self-sufficiency/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life/card-tricks/index.html",
+    "href": "life/card-tricks/index.html",
+    "title": "NB",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cse/systems-pl/index.html",
+    "href": "cse/systems-pl/index.html",
+    "title": "Systems Programming Languages",
+    "section": "",
+    "text": "notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "System Programming",
+      "Systems Programming Languages"
+    ]
   },
   {
     "objectID": "cse/ads/c/index.html",
