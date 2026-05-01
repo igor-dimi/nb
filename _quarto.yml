@@ -57,6 +57,7 @@ website:
             - cse/compilers/index.qmd
             - cse/databases/index.qmd
             - cse/computer-org-digital-logic/index.qmd
+            - cse/systems-pl/index.qmd
         - cse/sci-math-computing/index.qmd
         - section: "Various Languages"
           href: cse/programming-languages/index.qmd

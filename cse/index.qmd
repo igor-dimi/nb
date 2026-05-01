@@ -29,6 +29,8 @@ title: Computer Science & Engineering
 * [compilers](./compilers/index.qmd)
 * [databases](./databases/index.qmd)
 * digital logic & computer hardware [link](./computer-org-digital-logic/)
+* [systems programming languages](./systems-pl/index.qmd)
+
 
 ## Other
 

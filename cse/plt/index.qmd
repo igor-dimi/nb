@@ -3,3 +3,8 @@ title: "PLT"
 ---
 
 * [notes](https://igor-dimi.github.io/programming-language-theory-and-pragmatics-notes/)
+
+
+### Links
+
+* Oleg Kiselyov [link](https://okmij.org/ftp/)

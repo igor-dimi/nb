@@ -3,3 +3,125 @@ title: ADS & Competitive Programming
 ---
 
 * [notes](https://igor-dimi.github.io/algorithms-data-structures-and-competitive-programming-notes/)
+
+
+
+## Algorithms & Data Structures Roadmap
+
+#### Phase 1 – Foundations & Literacy
+
+**Goal:** Build conceptual clarity, basic fluency, and start problem-solving habit.
+
+**Core readings:**
+
+* Wirth – *Algorithms + Data Structures = Programs* (lean, clear conceptual start).
+* Brassard & Bratley – *Fundamentals of Algorithmics* (systematic intro).
+
+**Practice:**
+
+* Daily small problems: arrays, recursion, sorting basics (LeetCode Easy, Codeforces Div2 A/B).
+* Work through examples/exercises in Wirth/Brassard.
+
+**Projects:**
+
+* Implement a “mini standard library”: arrays, linked lists, stacks, queues.
+* Write and benchmark classic sorts (insertion, merge, quick).
+
+**Milestone:**
+
+* Comfortably analyze O(n), O(n log n), O(n²).
+* Can hand-write correct pseudocode for sorting/searching.
+* \~Codeforces 1100–1200 (solid beginner).
+
+---
+
+#### Phase 2 – Intermediate Mastery
+
+**Goal:** Internalize core data structures and standard algorithms.
+
+**Core readings:**
+
+* Jeff Erickson – *Algorithms* (modern, conceptual).
+* Edmonds – *How to Think About Algorithms* (intuition/strategy).
+
+**Practice:**
+
+* Regular problem-solving: dynamic programming, greedy, trees, hash tables.
+* Target Codeforces 1400–1600 (Div2 C-level consistency).
+
+**Projects:**
+
+* Implement a balanced BST (AVL or Red-Black).
+* Graph toolkit: BFS, DFS, Dijkstra, topological sort.
+* Experiment with hash tables (chaining vs. open addressing).
+
+**Milestone:**
+
+* Comfortable with recurrence relations and master theorem.
+* Can solve medium-level ADS problems under time pressure.
+* Written and tested your own graph library.
+
+---
+
+#### Phase 3 – Advanced Techniques & Problem-Solving Edge
+
+**Goal:** Gain fluency in advanced data structures and competitive-level problem-solving.
+
+**Core readings:**
+
+* Edmonds (finish).
+* Mehlhorn & Sanders – *Algorithms and Data Structures: The Basic Toolbox*.
+* Supplements: Parberry (*Problems on Algorithms*), Sannemo (*Principles of Algorithmic Problem Solving*).
+
+**Practice:**
+
+* Systematic Codeforces training, aiming 1700–1900 (Master).
+* Problems: advanced DP, flows, segment trees, binary indexed trees, string algorithms.
+
+**Projects:**
+
+* Implement segment tree & Fenwick tree, compare performance.
+* Small search engine (inverted index + ranking).
+* Visualize Dijkstra and A\* on grids.
+
+**Milestone:**
+
+* Competent with amortized analysis, randomized algorithms.
+* Can solve harder graph/DP problems (CF Div2 D, occasional Div1 A).
+* Built a personal ADS library for reuse.
+
+---
+
+#### Phase 4 – Integration & Research Prep
+
+**Goal:** Position ADS knowledge to support PLT + ML/AI work.
+
+**Core readings:**
+
+* Concrete Mathematics (Knuth et al.) → strengthen recurrences, counting.
+* Graph supplements (Marcus, Gibbons) → deepen graph-specific algorithms.
+
+**Practice:**
+
+* Mix classical problems with application-driven ones (SAT solvers, SMT-style algorithms, ML optimization routines).
+* Continue competitive practice to maintain edge.
+
+**Projects:**
+
+* Implement SAT solver (DPLL) as bridge to formal methods.
+* Implement SGD & Adam optimizers from scratch (bridge to ML).
+* Prototype a small probabilistic data structure (Bloom filter, Count-Min Sketch).
+
+**Milestone:**
+
+* Ready to connect ADS mastery to **PLT/Formal (verification algorithms)** and **ML/AI (optimization & data pipeline)**.
+* Comfortable switching between theory, problem-solving, and implementation.
+
+---
+
+### Key Notes
+
+* **Style balance:** ADS benefits most from *problem-solving* (Codeforces/LeetCode) — projects are supplementary but give systems context.
+* **Book usage:** Wirth → Brassard/Bratley → Erickson → Edmonds (+ toolbox, Parberry/Sannemo as practice). The rest of your collection = optional references.
+* **Final Target:** Algorithmic literacy at the level of a CS graduate + problem-solving skills around Codeforces Master.
+
